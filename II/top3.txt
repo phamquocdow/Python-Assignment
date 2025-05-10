@@ -1,0 +1,962 @@
+--- Age ---
+Top 3:
+Player           Nation          Team            Position        Age            
+Łukasz Fabiański POL             West Ham           GK            40-14         
+    Ashley Young ENG              Everton        DF,FW           39-297         
+    James Milner ENG             Brighton           MF           39-118         
+
+Bottom 3:
+Player          Nation          Team            Position        Age            
+  Mikey Moore   ENG                  Tottenham  FW,MF           17-264         
+Ethan Nwaneri   ENG                    Arsenal  FW,MF            18-42         
+  Harry Amass   ENG             Manchester Utd     DF            18-47         
+
+--- Matches played ---
+Top 3:
+Player          Nation          Team            Position         Matches played
+    Alex Iwobi  NGA                      Fulham FW,MF           34             
+Anthony Elanga  SWE             Nott'ham Forest FW,MF           34             
+    Bernd Leno  GER                      Fulham    GK           34             
+
+Bottom 3:
+Player          Nation          Team            Position         Matches played
+ Ayden Heaven   ENG             Manchester Utd  DF              2              
+Billy Gilmour   SCO                   Brighton  MF              2              
+   Danny Ward   WAL             Leicester City  GK              2              
+
+--- Starts ---
+Top 3:
+Player          Nation          Team            Position         Starts        
+     Bernd Leno GER                    Fulham   GK              34             
+Bruno Guimarães BRA             Newcastle Utd   MF              34             
+   Bryan Mbeumo CMR                 Brentford   FW              34             
+
+Bottom 3:
+Player          Nation          Team            Position         Starts        
+Ali Al Hamadi   IRQ               Ipswich Town     FW           0              
+       Antony   BRA             Manchester Utd  DF,MF           0              
+ Ben Chilwell   ENG             Crystal Palace     DF           0              
+
+--- Minutes ---
+Top 3:
+Player          Nation          Team            Position         Minutes       
+    Bernd Leno  GER                     Fulham  GK              3060           
+    David Raya  ESP                    Arsenal  GK              3060           
+Dean Henderson  ENG             Crystal Palace  GK              3060           
+
+Bottom 3:
+Player               Nation          Team            Position         Minutes       
+        Ayden Heaven ENG              Manchester Utd DF              95             
+Jahmai Simpson-Pusey ENG             Manchester City DF              96             
+       Billy Gilmour SCO                    Brighton MF              98             
+
+--- Goals ---
+Top 3:
+Player          Nation          Team            Position         Goals         
+ Mohamed Salah  EGY                   Liverpool FW              28             
+Alexander Isak  SWE               Newcastle Utd FW              22             
+Erling Haaland  NOR             Manchester City FW              21             
+
+Bottom 3:
+Player             Nation          Team            Position         Goals         
+   Aaron Cresswell ENG                    West Ham DF              0              
+    Aaron Ramsdale ENG                 Southampton GK              0              
+Abdukodir Khusanov UZB             Manchester City DF              0              
+
+--- Assists ---
+Top 3:
+Player           Nation          Team            Position         Assists       
+   Mohamed Salah EGY                 Liverpool   FW              18             
+    Jacob Murphy ENG             Newcastle Utd   FW              11             
+Antonee Robinson USA                    Fulham   DF              10             
+
+Bottom 3:
+Player             Nation          Team            Position         Assists       
+   Aaron Cresswell ENG                    West Ham DF              0              
+    Aaron Ramsdale ENG                 Southampton GK              0              
+Abdukodir Khusanov UZB             Manchester City DF              0              
+
+--- Yellow Cards ---
+Top 3:
+Player          Nation          Team            Position         Yellow Cards  
+ Saša Lukić     SRB                     Fulham  MF              12             
+Will Hughes     ENG             Crystal Palace  MF              11             
+   Dan Burn     ENG              Newcastle Utd  DF              10             
+
+Bottom 3:
+Player                Nation          Team            Position         Yellow Cards  
+Abdul Fatawu Issahaku GHA             Leicester City     FW           0              
+         Adam Webster ENG                   Brighton     DF           0              
+      Albert Grønbaek DEN                Southampton  FW,MF           0              
+
+--- Red Cards ---
+Top 3:
+Player             Nation          Team            Position         Red Cards     
+   Bruno Fernandes POR             Manchester Utd  MF              2              
+     Jack Stephens ENG                Southampton  DF              2              
+Myles Lewis-Skelly ENG                    Arsenal  DF              2              
+
+Bottom 3:
+Player            Nation          Team            Position         Red Cards     
+  Aaron Cresswell ENG                West Ham     DF              0              
+   Aaron Ramsdale ENG             Southampton     GK              0              
+Aaron Wan-Bissaka ENG                West Ham     DF              0              
+
+--- Expected Goals ---
+Top 3:
+Player          Nation          Team            Position         Expected Goals
+ Mohamed Salah  EGY                   Liverpool FW              23.9           
+Erling Haaland  NOR             Manchester City FW              20.8           
+Alexander Isak  SWE               Newcastle Utd FW              19.0           
+
+Bottom 3:
+Player             Nation          Team            Position         Expected Goals
+    Aaron Ramsdale ENG                 Southampton GK              0.0            
+Abdukodir Khusanov UZB             Manchester City DF              0.0            
+      Adam Webster ENG                    Brighton DF              0.0            
+
+--- Expedted Assist Goals ---
+Top 3:
+Player          Nation          Team            Position         Expedted Assist Goals
+Mohamed Salah   EGY             Liverpool       FW              12.8                  
+  Cole Palmer   ENG               Chelsea       MF               9.3                  
+Son Heung-min   KOR             Tottenham       FW               8.2                  
+
+Bottom 3:
+Player          Nation          Team            Position         Expedted Assist Goals
+ Aaron Ramsdale ENG             Southampton        GK           0.0                   
+Albert Grønbaek DEN             Southampton     FW,MF           0.0                   
+  Alex McCarthy ENG             Southampton        GK           0.0                   
+
+--- Progressive Carries in Progression ---
+Top 3:
+Player          Nation          Team            Position         Progressive Carries in Progression
+  Jeremy Doku   BEL             Manchester City FW,MF           176                                
+Mohamed Salah   EGY                   Liverpool    FW           142                                
+ Kaoru Mitoma   JPN                    Brighton FW,MF           138                                
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Carries in Progression
+Aaron Ramsdale  ENG              Southampton    GK              0                                  
+ Alex McCarthy  ENG              Southampton    GK              0                                  
+   Alex Palmer  ENG             Ipswich Town    GK              0                                  
+
+--- Progressive Passes in Progression ---
+Top 3:
+Player          Nation          Team            Position         Progressive Passes in Progression
+Bruno Fernandes POR              Manchester Utd MF              281                               
+Bruno Guimarães BRA               Newcastle Utd MF              241                               
+ Joško Gvardiol CRO             Manchester City DF              240                               
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Passes in Progression
+Aaron Ramsdale  ENG             Southampton     GK              0                                 
+ Alex McCarthy  ENG             Southampton     GK              0                                 
+       Alisson  BRA               Liverpool     GK              0                                 
+
+--- Progressive Passes Received in Progression ---
+Top 3:
+Player          Nation          Team            Position         Progressive Passes Received in Progression
+Mohamed Salah   EGY             Liverpool          FW           425                                        
+ Bryan Mbeumo   CMR             Brentford          FW           305                                        
+ Kaoru Mitoma   JPN              Brighton       FW,MF           277                                        
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Passes Received in Progression
+Aaron Ramsdale  ENG              Southampton    GK              0                                          
+ Alex McCarthy  ENG              Southampton    GK              0                                          
+   Alex Palmer  ENG             Ipswich Town    GK              0                                          
+
+--- Goals Scored per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Goals Scored per 90 minutes
+Donyell Malen   NED                 Aston Villa    FW           0.99                        
+  Jáder Durán   COL                 Aston Villa    FW           0.99                        
+ James Mcatee   ENG             Manchester City MF,FW           0.91                        
+
+Bottom 3:
+Player             Nation          Team            Position         Goals Scored per 90 minutes
+   Aaron Cresswell ENG                    West Ham DF              0.0                         
+    Aaron Ramsdale ENG                 Southampton GK              0.0                         
+Abdukodir Khusanov UZB             Manchester City DF              0.0                         
+
+--- Assists per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Assists per 90 minutes
+Tyrique George  ENG              Chelsea           FW           0.87                   
+    Danny Ings  ENG             West Ham        FW,MF           0.63                   
+   Bukayo Saka  ENG              Arsenal        FW,MF           0.62                   
+
+Bottom 3:
+Player             Nation          Team            Position         Assists per 90 minutes
+   Aaron Cresswell ENG                    West Ham DF              0.0                    
+    Aaron Ramsdale ENG                 Southampton GK              0.0                    
+Abdukodir Khusanov UZB             Manchester City DF              0.0                    
+
+--- Expected Goals per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Expected Goals per 90 minutes
+ James Mcatee   ENG             Manchester City MF,FW           0.85                          
+Marco Asensio   ESP                 Aston Villa MF,FW           0.78                          
+  Richarlison   BRA                   Tottenham    FW           0.78                          
+
+Bottom 3:
+Player             Nation          Team            Position         Expected Goals per 90 minutes
+    Aaron Ramsdale ENG                 Southampton GK              0.0                           
+Abdukodir Khusanov UZB             Manchester City DF              0.0                           
+      Adam Webster ENG                    Brighton DF              0.0                           
+
+--- Expected Assists Goals per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Expected Assists Goals per 90 minutes
+ Tyrique George ENG                 Chelsea        FW           0.63                                  
+Mykhailo Mudryk UKR                 Chelsea        FW           0.58                                  
+Luis Sinisterra COL             Bournemouth     FW,MF           0.54                                  
+
+Bottom 3:
+Player          Nation          Team            Position         Expected Assists Goals per 90 minutes
+Aaron Ramsdale  ENG              Southampton    GK              0.0                                   
+ Alex McCarthy  ENG              Southampton    GK              0.0                                   
+   Alex Palmer  ENG             Ipswich Town    GK              0.0                                   
+
+--- Goals Against per 90 minutes ---
+Top 3:
+Player           Nation          Team            Position         Goals Against per 90 minutes
+      Danny Ward WAL             Leicester City  GK              4.00                         
+Christian Walton ENG               Ipswich Town  GK              2.67                         
+   Alex McCarthy ENG                Southampton  GK              2.60                         
+
+Bottom 3:
+Player          Nation          Team            Position         Goals Against per 90 minutes
+Jason Steele    ENG              Brighton       GK              0.50                         
+     Alisson    BRA             Liverpool       GK              0.84                         
+  David Raya    ESP               Arsenal       GK              0.85                         
+
+--- Save Percentage ---
+Top 3:
+Player          Nation          Team            Position         Save Percentage
+          Neto  BRA             Bournemouth     GK              84.6            
+  Mark Travers  IRL             Bournemouth     GK              80.0            
+Robert Sánchez  ESP                 Chelsea     GK              76.7            
+
+Bottom 3:
+Player                  Nation          Team            Position         Save Percentage
+             Danny Ward WAL             Leicester City  GK              40.0            
+Hákon Rafn Valdimarsson ISL                  Brentford  GK              50.0            
+            Robin Olsen SWE                Aston Villa  GK              55.6            
+
+--- Clean Sheets Percentage ---
+Top 3:
+Player                  Nation          Team            Position         Clean Sheets Percentage
+Hákon Rafn Valdimarsson ISL               Brentford     GK              100.0                   
+            Robin Olsen SWE             Aston Villa     GK              100.0                   
+           Jason Steele ENG                Brighton     GK               50.0                   
+
+Bottom 3:
+Player          Nation          Team            Position         Clean Sheets Percentage
+Alex McCarthy   ENG                Southampton  GK              0.0                     
+  Alex Palmer   ENG               Ipswich Town  GK              0.0                     
+   Danny Ward   WAL             Leicester City  GK              0.0                     
+
+--- Penalty Save Percentage ---
+Top 3:
+Player            Nation          Team            Position         Penalty Save Percentage
+Caoimhín Kelleher IRL                  Liverpool  GK              100.0                   
+  Jordan Pickford ENG                    Everton  GK              100.0                   
+   Dean Henderson ENG             Crystal Palace  GK               50.0                   
+
+Bottom 3:
+Player          Nation          Team            Position         Penalty Save Percentage
+ Alex McCarthy  ENG              Southampton    GK              0.0                     
+   Alex Palmer  ENG             Ipswich Town    GK              0.0                     
+Arijanet Muric  KVX             Ipswich Town    GK              0.0                     
+
+--- Percentage of shots that are on target ---
+Top 3:
+Player          Nation          Team            Position         Percentage of shots that are on target
+Adam Webster    ENG                   Brighton     DF           100.0                                  
+ Archie Gray    ENG                  Tottenham  DF,MF           100.0                                  
+ Conor Coady    ENG             Leicester City     DF           100.0                                  
+
+Bottom 3:
+Player             Nation          Team            Position         Percentage of shots that are on target
+   Aaron Cresswell ENG                    West Ham DF              0.0                                    
+Abdukodir Khusanov UZB             Manchester City DF              0.0                                    
+      Adam Lallana ENG                 Southampton MF              0.0                                    
+
+--- Shots on target per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Shots on target per 90 minutes
+   Julio Enciso PAR                Brighton     MF,FW           3.37                           
+  Donyell Malen NED             Aston Villa        FW           2.64                           
+Luis Sinisterra COL             Bournemouth     FW,MF           2.29                           
+
+Bottom 3:
+Player             Nation          Team            Position         Shots on target per 90 minutes
+   Aaron Cresswell ENG                    West Ham DF              0.0                            
+    Aaron Ramsdale ENG                 Southampton GK              0.0                            
+Abdukodir Khusanov UZB             Manchester City DF              0.0                            
+
+--- Goals per shot ---
+Top 3:
+Player             Nation          Team            Position         Goals per shot
+       John Stones ENG             Manchester City DF,MF           1.0            
+       Axel Disasi FRA                     Chelsea    DF           0.5            
+Myles Lewis-Skelly ENG                     Arsenal    DF           0.5            
+
+Bottom 3:
+Player                Nation          Team            Position         Goals per shot
+      Aaron Cresswell ENG                    West Ham DF              0.0            
+   Abdukodir Khusanov UZB             Manchester City DF              0.0            
+Abdul Fatawu Issahaku GHA              Leicester City FW              0.0            
+
+--- Average Shot Distance ---
+Top 3:
+Player           Nation          Team            Position         Average Shot Distance
+ Ibrahim Sangaré CIV             Nott'ham Forest    MF           32.0                  
+Emmanuel Agbadou CIV                      Wolves    DF           31.8                  
+     Ryan Fraser SCO                 Southampton FW,DF           31.6                  
+
+Bottom 3:
+Player          Nation          Team            Position         Average Shot Distance
+Kieran Tierney  SCO                     Arsenal DF,FW           2.6                   
+  Harry Clarke  ENG                Ipswich Town    DF           4.5                   
+   John Stones  ENG             Manchester City DF,MF           5.1                   
+
+--- Passes Completed ---
+Top 3:
+Player          Nation          Team            Position         Passes Completed
+Virgil van Dijk NED                   Liverpool DF              2446             
+ William Saliba FRA                     Arsenal DF              2273             
+ Joško Gvardiol CRO             Manchester City DF              2240             
+
+Bottom 3:
+Player          Nation          Team            Position         Passes Completed
+  William Osula DEN              Newcastle Utd     FW           11               
+Albert Grønbaek DEN                Southampton  FW,MF           13               
+Odsonne Édouard FRA             Crystal Palace  MF,FW           17               
+
+--- Pass Completion Percentage ---
+Top 3:
+Player          Nation          Team            Position         Pass Completion Percentage
+William Saliba  FRA                     Arsenal DF              94.2                       
+ Manuel Akanji  SUI             Manchester City DF              93.9                       
+    Nathan Aké  NED             Manchester City DF              93.9                       
+
+Bottom 3:
+Player          Nation          Team            Position         Pass Completion Percentage
+   Matz Sels    BEL             Nott'ham Forest GK              50.5                       
+George Hirst    SCO                Ipswich Town FW              55.0                       
+        Beto    GNB                     Everton FW              56.6                       
+
+--- Total Passing Distance ---
+Top 3:
+Player          Nation          Team            Position         Total Passing Distance
+Virgil van Dijk NED             Liverpool       DF              44780                  
+   Levi Colwill ENG               Chelsea       DF              39487                  
+ William Saliba FRA               Arsenal       DF              39201                  
+
+Bottom 3:
+Player          Nation          Team            Position         Total Passing Distance
+  William Osula DEN              Newcastle Utd     FW           126                    
+Albert Grønbaek DEN                Southampton  FW,MF           135                    
+Odsonne Édouard FRA             Crystal Palace  MF,FW           230                    
+
+--- Passes Completion Percentage (Short) ---
+Top 3:
+Player            Nation          Team            Position         Passes Completion Percentage (Short)
+   Antonín Kinský CZE                Tottenham    GK              100.0                                
+   Arijanet Muric KVX             Ipswich Town    GK              100.0                                
+Caoimhín Kelleher IRL                Liverpool    GK              100.0                                
+
+Bottom 3:
+Player          Nation          Team            Position         Passes Completion Percentage (Short)
+William Osula   DEN             Newcastle Utd   FW              61.5                                 
+ Paul Onuachu   NGA               Southampton   FW              63.8                                 
+ George Hirst   SCO              Ipswich Town   FW              66.7                                 
+
+--- Passes Completion Percentage (Medium) ---
+Top 3:
+Player            Nation          Team            Position         Passes Completion Percentage (Medium)
+      Alex Palmer ENG               Ipswich Town  GK              100.0                                 
+Caoimhín Kelleher IRL                  Liverpool  GK              100.0                                 
+       Danny Ward WAL             Leicester City  GK              100.0                                 
+
+Bottom 3:
+Player          Nation          Team            Position         Passes Completion Percentage (Medium)
+   George Hirst SCO             Ipswich Town       FW           47.8                                  
+           Beto GNB                  Everton       FW           48.5                                  
+Albert Grønbaek DEN              Southampton    FW,MF           50.0                                  
+
+--- Passes Completion Percentage (Long) ---
+Top 3:
+Player           Nation          Team            Position         Passes Completion Percentage (Long)
+     Andy Irving SCO                   West Ham     MF           100.0                               
+          Antony BRA             Manchester Utd  DF,MF           100.0                               
+Chiedozie Ogbene IRL               Ipswich Town     FW           100.0                               
+
+Bottom 3:
+Player          Nation          Team            Position         Passes Completion Percentage (Long)
+    Enes Ünal   TUR             Bournemouth     FW,MF           0.0                                 
+Evan Ferguson   IRL                West Ham        FW           0.0                                 
+ Ross Stewart   SCO             Southampton        FW           0.0                                 
+
+--- Key Passes ---
+Top 3:
+Player          Nation          Team            Position         Key Passes    
+Bruno Fernandes POR             Manchester Utd  MF              84             
+  Mohamed Salah EGY                  Liverpool  FW              80             
+    Cole Palmer ENG                    Chelsea  MF              78             
+
+Bottom 3:
+Player          Nation          Team            Position         Key Passes    
+ Aaron Ramsdale ENG             Southampton     GK              0              
+  Alex McCarthy ENG             Southampton     GK              0              
+Alphonse Areola FRA                West Ham     GK              0              
+
+--- Passes into Final Third ---
+Top 3:
+Player          Nation          Team            Position         Passes into Final Third
+Virgil van Dijk NED                   Liverpool DF              265                     
+ Joško Gvardiol CRO             Manchester City DF              225                     
+Youri Tielemans BEL                 Aston Villa MF              221                     
+
+Bottom 3:
+Player           Nation          Team            Position         Passes into Final Third
+   Ali Al Hamadi IRQ             Ipswich Town    FW              0                       
+Chiedozie Ogbene IRL             Ipswich Town    FW              0                       
+   Evan Ferguson IRL                 West Ham    FW              0                       
+
+--- Passes into Penalty Area ---
+Top 3:
+Player          Nation          Team            Position         Passes into Penalty Area
+  Mohamed Salah EGY             Liverpool          FW           82                       
+Martin Ødegaard NOR               Arsenal          MF           78                       
+     Alex Iwobi NGA                Fulham       FW,MF           77                       
+
+Bottom 3:
+Player             Nation          Team            Position         Passes into Penalty Area
+Abdukodir Khusanov UZB             Manchester City    DF           0                        
+   Albert Grønbaek DEN                 Southampton FW,MF           0                        
+     Alex McCarthy ENG                 Southampton    GK           0                        
+
+--- Crosses into Penalty Area ---
+Top 3:
+Player           Nation          Team            Position         Crosses into Penalty Area
+Antonee Robinson USA                  Fulham     DF              26                        
+     Pedro Porro ESP               Tottenham     DF              26                        
+    Milos Kerkez HUN             Bournemouth     DF              22                        
+
+Bottom 3:
+Player             Nation          Team            Position         Crosses into Penalty Area
+    Aaron Ramsdale ENG                 Southampton GK              0                         
+Abdoulaye Doucouré MLI                     Everton MF              0                         
+Abdukodir Khusanov UZB             Manchester City DF              0                         
+
+--- Progressive Passes in Expected ---
+Top 3:
+Player          Nation          Team            Position         Progressive Passes in Expected
+Bruno Fernandes POR              Manchester Utd MF              281                            
+Bruno Guimarães BRA               Newcastle Utd MF              241                            
+ Joško Gvardiol CRO             Manchester City DF              240                            
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Passes in Expected
+Aaron Ramsdale  ENG             Southampton     GK              0                              
+ Alex McCarthy  ENG             Southampton     GK              0                              
+       Alisson  BRA               Liverpool     GK              0                              
+
+--- Shot-Creating Actions ---
+Top 3:
+Player          Nation          Team            Position         Shot-Creating Actions
+    Cole Palmer ENG                    Chelsea  MF              180                   
+Bruno Fernandes POR             Manchester Utd  MF              169                   
+  Mohamed Salah EGY                  Liverpool  FW              153                   
+
+Bottom 3:
+Player            Nation          Team            Position         Shot-Creating Actions
+    Alex McCarthy ENG             Southampton     GK              0                     
+          Ben Mee ENG               Brentford     DF              0                     
+Benoît Badiashile FRA                 Chelsea     DF              0                     
+
+--- Shot-Creating Actions per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Shot-Creating Actions per 90 minutes
+ Philip Billing DEN                 Bournemouth    MF           7.83                                 
+ Luis Guilherme BRA                    West Ham MF,FW           6.52                                 
+Kevin De Bruyne BEL             Manchester City MF,FW           6.24                                 
+
+Bottom 3:
+Player            Nation          Team            Position         Shot-Creating Actions per 90 minutes
+    Alex McCarthy ENG             Southampton     GK              0.0                                  
+          Ben Mee ENG               Brentford     DF              0.0                                  
+Benoît Badiashile FRA                 Chelsea     DF              0.0                                  
+
+--- Goal-Creating Actions ---
+Top 3:
+Player           Nation          Team            Position         Goal-Creating Actions
+   Mohamed Salah EGY             Liverpool          FW           26                    
+     Bukayo Saka ENG               Arsenal       FW,MF           22                    
+Mikkel Damsgaard DEN             Brentford       MF,FW           21                    
+
+Bottom 3:
+Player             Nation          Team            Position         Goal-Creating Actions
+   Aaron Cresswell ENG                    West Ham DF              0                     
+    Aaron Ramsdale ENG                 Southampton GK              0                     
+Abdukodir Khusanov UZB             Manchester City DF              0                     
+
+--- Goal-Creating Actions per 90 minutes ---
+Top 3:
+Player          Nation          Team            Position         Goal-Creating Actions per 90 minutes
+Bukayo Saka     ENG               Arsenal       FW,MF           1.36                                 
+Solly March     ENG              Brighton       FW,MF           1.08                                 
+Mikey Moore     ENG             Tottenham       FW,MF           0.97                                 
+
+Bottom 3:
+Player             Nation          Team            Position         Goal-Creating Actions per 90 minutes
+   Aaron Cresswell ENG                    West Ham DF              0.0                                  
+    Aaron Ramsdale ENG                 Southampton GK              0.0                                  
+Abdukodir Khusanov UZB             Manchester City DF              0.0                                  
+
+--- Tackles ---
+Top 3:
+Player             Nation          Team            Position         Tackles       
+Idrissa Gana Gueye SEN                    Everton  MF              123            
+      Daniel Muñoz COL             Crystal Palace  DF              109            
+ Noussair Mazraoui MAR             Manchester Utd  DF              102            
+
+Bottom 3:
+Player          Nation          Team            Position         Tackles       
+Aaron Ramsdale  ENG              Southampton    GK              0              
+ Alex McCarthy  ENG              Southampton    GK              0              
+   Alex Palmer  ENG             Ipswich Town    GK              0              
+
+--- Tackles Won ---
+Top 3:
+Player             Nation          Team            Position         Tackles Won   
+Idrissa Gana Gueye SEN                    Everton  MF              74             
+      Daniel Muñoz COL             Crystal Palace  DF              70             
+    Moisés Caicedo ECU                    Chelsea  MF              63             
+
+Bottom 3:
+Player          Nation          Team            Position         Tackles Won   
+Aaron Ramsdale  ENG              Southampton    GK              0              
+ Alex McCarthy  ENG              Southampton    GK              0              
+   Alex Palmer  ENG             Ipswich Town    GK              0              
+
+--- Dribblers Tackled ---
+Top 3:
+Player                 Nation          Team            Position         Dribblers Tackled
+   Alexis Mac Allister ARG             Liverpool       MF              101               
+Trent Alexander-Arnold ENG             Liverpool       DF              101               
+            João Gomes BRA                Wolves       MF               97               
+
+Bottom 3:
+Player          Nation          Team            Position         Dribblers Tackled
+Alex McCarthy   ENG              Southampton    GK              0                 
+  Alex Palmer   ENG             Ipswich Town    GK              0                 
+Armando Broja   ALB                  Everton    FW              0                 
+
+--- Dribbles Challenged ---
+Top 3:
+Player                 Nation          Team            Position         Dribbles Challenged
+            João Gomes BRA                      Wolves MF              59                  
+Trent Alexander-Arnold ENG                   Liverpool DF              53                  
+       Elliot Anderson ENG             Nott'ham Forest MF              52                  
+
+Bottom 3:
+Player          Nation          Team            Position         Dribbles Challenged
+ Alex McCarthy  ENG              Southampton    GK              0                   
+   Alex Palmer  ENG             Ipswich Town    GK              0                   
+Antonín Kinský  CZE                Tottenham    GK              0                   
+
+--- Blocks ---
+Top 3:
+Player          Nation          Team            Position         Blocks        
+ Nathan Collins IRL                   Brentford DF              69             
+        Murillo BRA             Nott'ham Forest DF              66             
+Tyrick Mitchell ENG              Crystal Palace DF              62             
+
+Bottom 3:
+Player          Nation          Team            Position         Blocks        
+Aaron Ramsdale  ENG              Southampton    GK              0              
+ Alex McCarthy  ENG              Southampton    GK              0              
+   Alex Palmer  ENG             Ipswich Town    GK              0              
+
+--- Shots Blocked ---
+Top 3:
+Player          Nation          Team            Position         Shots Blocked 
+Nathan Collins  IRL                   Brentford DF              49             
+   Dara O'Shea  IRL                Ipswich Town DF              47             
+       Murillo  BRA             Nott'ham Forest DF              43             
+
+Bottom 3:
+Player                Nation          Team            Position         Shots Blocked 
+       Aaron Ramsdale ENG                Southampton     GK           0              
+Abdul Fatawu Issahaku GHA             Leicester City     FW           0              
+         Adama Traoré ESP                     Fulham  FW,MF           0              
+
+--- Passes Blocked ---
+Top 3:
+Player              Nation          Team            Position         Passes Blocked
+Alexis Mac Allister ARG                  Liverpool  MF              54             
+    Antoine Semenyo GHA                Bournemouth  FW              51             
+    Tyrick Mitchell ENG             Crystal Palace  DF              50             
+
+Bottom 3:
+Player          Nation          Team            Position         Passes Blocked
+ Aaron Ramsdale ENG             Southampton        GK           0              
+Albert Grønbaek DEN             Southampton     FW,MF           0              
+  Alex McCarthy ENG             Southampton        GK           0              
+
+--- Interceptions ---
+Top 3:
+Player            Nation          Team            Position         Interceptions 
+Aaron Wan-Bissaka ENG              West Ham       DF              59             
+ Ryan Gravenberch NED             Liverpool       MF              57             
+ Antonee Robinson USA                Fulham       DF              56             
+
+Bottom 3:
+Player          Nation          Team            Position         Interceptions 
+Albert Grønbaek DEN              Southampton    FW,MF           0              
+  Alex McCarthy ENG              Southampton       GK           0              
+    Alex Palmer ENG             Ipswich Town       GK           0              
+
+--- Touches ---
+Top 3:
+Player          Nation          Team            Position         Touches       
+Virgil van Dijk NED                   Liverpool DF              3010           
+ Joško Gvardiol CRO             Manchester City DF              2808           
+   Levi Colwill ENG                     Chelsea DF              2669           
+
+Bottom 3:
+Player          Nation          Team            Position         Touches       
+Albert Grønbaek DEN                Southampton  FW,MF           38             
+  William Osula DEN              Newcastle Utd     FW           41             
+Odsonne Édouard FRA             Crystal Palace  MF,FW           45             
+
+--- Touches(Defensive Penalty Area) ---
+Top 3:
+Player          Nation          Team            Position         Touches(Defensive Penalty Area)
+Mark Flekken    NED                  Brentford  GK              1304                            
+  Bernd Leno    GER                     Fulham  GK              1066                            
+ André Onana    CMR             Manchester Utd  GK              1005                            
+
+Bottom 3:
+Player          Nation          Team            Position         Touches(Defensive Penalty Area)
+  Emi Buendía   ARG               Aston Villa   MF,FW           0                               
+Callum Wilson   ENG             Newcastle Utd      FW           1                               
+Evan Ferguson   IRL                  West Ham      FW           1                               
+
+--- Touches(Defensive Third) ---
+Top 3:
+Player          Nation          Team            Position         Touches(Defensive Third)
+   Mark Flekken NED             Brentford       GK              1614                     
+Jordan Pickford ENG               Everton       GK              1451                     
+     Bernd Leno GER                Fulham       GK              1318                     
+
+Bottom 3:
+Player          Nation          Team            Position         Touches(Defensive Third)
+  William Osula DEN              Newcastle Utd     FW           2                        
+Odsonne Édouard FRA             Crystal Palace  MF,FW           4                        
+  Callum Wilson ENG              Newcastle Utd     FW           5                        
+
+--- Touches(Mid Third) ---
+Top 3:
+Player          Nation          Team            Position         Touches(Mid Third)
+Virgil van Dijk NED             Liverpool       DF              1664               
+ William Saliba FRA               Arsenal       DF              1495               
+ Moisés Caicedo ECU               Chelsea       MF              1442               
+
+Bottom 3:
+Player          Nation          Team            Position         Touches(Mid Third)
+ Alex McCarthy  ENG                Southampton  GK              0                  
+    Danny Ward  WAL             Leicester City  GK              0                  
+Fraser Forster  ENG                  Tottenham  GK              0                  
+
+--- Touches(Attacking Third) ---
+Top 3:
+Player          Nation          Team            Position         Touches(Attacking Third)
+  Mohamed Salah EGY                  Liverpool  FW              993                      
+Bruno Fernandes POR             Manchester Utd  MF              888                      
+   Bryan Mbeumo CMR                  Brentford  FW              876                      
+
+Bottom 3:
+Player          Nation          Team            Position         Touches(Attacking Third)
+Aaron Ramsdale  ENG              Southampton    GK              0                        
+ Alex McCarthy  ENG              Southampton    GK              0                        
+   Alex Palmer  ENG             Ipswich Town    GK              0                        
+
+--- Touches(Attacking Penalty Area) ---
+Top 3:
+Player          Nation          Team            Position         Touches(Attacking Penalty Area)
+  Mohamed Salah EGY                 Liverpool   FW              320                             
+Antoine Semenyo GHA               Bournemouth   FW              176                             
+ Alexander Isak SWE             Newcastle Utd   FW              175                             
+
+Bottom 3:
+Player          Nation          Team            Position         Touches(Attacking Penalty Area)
+Aaron Ramsdale  ENG              Southampton    GK              0                               
+ Alex McCarthy  ENG              Southampton    GK              0                               
+   Alex Palmer  ENG             Ipswich Town    GK              0                               
+
+--- Take-Ons Attempted(Take-Ons) ---
+Top 3:
+Player          Nation          Team            Position         Take-Ons Attempted(Take-Ons)
+Mohammed Kudus  GHA                    West Ham FW,MF           188                          
+   Jeremy Doku  BEL             Manchester City FW,MF           175                          
+ Morgan Rogers  ENG                 Aston Villa FW,MF           145                          
+
+Bottom 3:
+Player          Nation          Team            Position         Take-Ons Attempted(Take-Ons)
+Aaron Ramsdale  ENG              Southampton    GK              0                            
+ Alex McCarthy  ENG              Southampton    GK              0                            
+   Alex Palmer  ENG             Ipswich Town    GK              0                            
+
+--- Percentage of Take-Ons Completed Successfully ---
+Top 3:
+Player          Nation          Team            Position         Percentage of Take-Ons Completed Successfully
+Aaron Cresswell ENG              West Ham       DF              100.0                                         
+        Alisson BRA             Liverpool       GK              100.0                                         
+    Andy Irving SCO              West Ham       MF              100.0                                         
+
+Bottom 3:
+Player              Nation          Team            Position         Percentage of Take-Ons Completed Successfully
+ Abdukodir Khusanov UZB             Manchester City    DF           0.0                                           
+    Albert Grønbaek DEN                 Southampton FW,MF           0.0                                           
+Armel Bella Kotchap GER                 Southampton    DF           0.0                                           
+
+--- Tackled During Take-Ons Percentage ---
+Top 3:
+Player              Nation          Team            Position         Tackled During Take-Ons Percentage
+ Abdukodir Khusanov UZB             Manchester City    DF           100.0                              
+    Albert Grønbaek DEN                 Southampton FW,MF           100.0                              
+Armel Bella Kotchap GER                 Southampton    DF           100.0                              
+
+Bottom 3:
+Player          Nation          Team            Position         Tackled During Take-Ons Percentage
+Aaron Cresswell ENG              West Ham       DF              0.0                                
+        Alisson BRA             Liverpool       GK              0.0                                
+    Andy Irving SCO              West Ham       MF              0.0                                
+
+--- Carries ---
+Top 3:
+Player          Nation          Team            Position         Carries       
+ Joško Gvardiol CRO             Manchester City DF              1826           
+Virgil van Dijk NED                   Liverpool DF              1682           
+ William Saliba FRA                     Arsenal DF              1642           
+
+Bottom 3:
+Player          Nation          Team            Position         Carries       
+  Harry Toffolo ENG             Nott'ham Forest    DF           17             
+Albert Grønbaek DEN                 Southampton FW,MF           18             
+Odsonne Édouard FRA              Crystal Palace MF,FW           23             
+
+--- Progressive Carrying Distance ---
+Top 3:
+Player             Nation          Team            Position         Progressive Carrying Distance
+Jan Paul van Hecke NED                    Brighton DF              6643                          
+    Joško Gvardiol CRO             Manchester City DF              5505                          
+        Rúben Dias POR             Manchester City DF              5097                          
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Carrying Distance
+Albert Grønbaek DEN                 Southampton FW,MF           15                            
+  Harry Toffolo ENG             Nott'ham Forest    DF           23                            
+ Massimo Luongo AUS                Ipswich Town    MF           25                            
+
+--- Progressive Carries in Carries ---
+Top 3:
+Player          Nation          Team            Position         Progressive Carries in Carries
+  Jeremy Doku   BEL             Manchester City FW,MF           176                            
+Mohamed Salah   EGY                   Liverpool    FW           142                            
+ Kaoru Mitoma   JPN                    Brighton FW,MF           138                            
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Carries in Carries
+Aaron Ramsdale  ENG              Southampton    GK              0                              
+ Alex McCarthy  ENG              Southampton    GK              0                              
+   Alex Palmer  ENG             Ipswich Town    GK              0                              
+
+--- Carries into Final Third ---
+Top 3:
+Player          Nation          Team            Position         Carries into Final Third
+    Alex Iwobi  NGA                      Fulham FW,MF           99                       
+Joško Gvardiol  CRO             Manchester City    DF           91                       
+ Matheus Cunha  BRA                      Wolves MF,FW           88                       
+
+Bottom 3:
+Player          Nation          Team            Position         Carries into Final Third
+ Aaron Ramsdale ENG             Southampton        GK           0                        
+Albert Grønbaek DEN             Southampton     FW,MF           0                        
+  Alex McCarthy ENG             Southampton        GK           0                        
+
+--- Carries into Penalty Area ---
+Top 3:
+Player          Nation          Team            Position         Carries into Penalty Area
+Mohamed Salah   EGY                   Liverpool    FW           113                       
+  Jeremy Doku   BEL             Manchester City FW,MF            80                       
+ Noni Madueke   ENG                     Chelsea    FW            80                       
+
+Bottom 3:
+Player             Nation          Team            Position         Carries into Penalty Area
+   Aaron Cresswell ENG                    West Ham DF              0                         
+    Aaron Ramsdale ENG                 Southampton GK              0                         
+Abdukodir Khusanov UZB             Manchester City DF              0                         
+
+--- Miscontrols ---
+Top 3:
+Player          Nation          Team            Position         Miscontrols   
+Mohamed Salah   EGY               Liverpool        FW           105            
+Morgan Rogers   ENG             Aston Villa     FW,MF           102            
+ Bryan Mbeumo   CMR               Brentford        FW            96            
+
+Bottom 3:
+Player          Nation          Team            Position         Miscontrols   
+  Alex McCarthy ENG             Southampton     GK              0              
+Alphonse Areola FRA                West Ham     GK              0              
+ Antonín Kinský CZE               Tottenham     GK              0              
+
+--- Dispossessed ---
+Top 3:
+Player           Nation          Team            Position         Dispossessed  
+  Mohammed Kudus GHA                  West Ham   FW,MF           88             
+ Bruno Guimarães BRA             Newcastle Utd      MF           73             
+Dejan Kulusevski SWE                 Tottenham   MF,FW           72             
+
+Bottom 3:
+Player          Nation          Team            Position         Dispossessed  
+Aaron Cresswell ENG                West Ham     DF              0              
+ Aaron Ramsdale ENG             Southampton     GK              0              
+  Alex McCarthy ENG             Southampton     GK              0              
+
+--- Passes Received ---
+Top 3:
+Player          Nation          Team            Position         Passes Received
+Virgil van Dijk NED                   Liverpool DF              2063            
+ Joško Gvardiol CRO             Manchester City DF              2062            
+ William Saliba FRA                     Arsenal DF              2013            
+
+Bottom 3:
+Player          Nation          Team            Position         Passes Received
+Albert Grønbaek DEN                Southampton  FW,MF           21              
+Odsonne Édouard FRA             Crystal Palace  MF,FW           26              
+  William Osula DEN              Newcastle Utd     FW           27              
+
+--- Progressive Passes Received in Receiving ---
+Top 3:
+Player          Nation          Team            Position         Progressive Passes Received in Receiving
+Mohamed Salah   EGY             Liverpool          FW           425                                      
+ Bryan Mbeumo   CMR             Brentford          FW           305                                      
+ Kaoru Mitoma   JPN              Brighton       FW,MF           277                                      
+
+Bottom 3:
+Player          Nation          Team            Position         Progressive Passes Received in Receiving
+Aaron Ramsdale  ENG              Southampton    GK              0                                        
+ Alex McCarthy  ENG              Southampton    GK              0                                        
+   Alex Palmer  ENG             Ipswich Town    GK              0                                        
+
+--- Fouls Committed ---
+Top 3:
+Player          Nation          Team            Position         Fouls Committed
+Antoine Semenyo GHA              Bournemouth    FW              65              
+     João Gomes BRA                   Wolves    MF              65              
+     Liam Delap ENG             Ipswich Town    FW              65              
+
+Bottom 3:
+Player          Nation          Team            Position         Fouls Committed
+Albert Grønbaek DEN             Southampton     FW,MF           0               
+  Alex McCarthy ENG             Southampton        GK           0               
+        Alisson BRA               Liverpool        GK           0               
+
+--- Fouls Drawn ---
+Top 3:
+Player          Nation          Team            Position         Fouls Drawn   
+Bruno Guimarães BRA             Newcastle Utd      MF           99             
+  Matheus Cunha BRA                    Wolves   MF,FW           69             
+ James Maddison ENG                 Tottenham      MF           64             
+
+Bottom 3:
+Player          Nation          Team            Position         Fouls Drawn   
+Alphonse Areola FRA                West Ham        GK           0              
+  Andrés García ESP             Aston Villa     DF,MF           0              
+ Antonín Kinský CZE               Tottenham        GK           0              
+
+--- Offsides ---
+Top 3:
+Player                Nation          Team            Position         Offsides      
+Dominic Calvert-Lewin ENG                     Everton FW              27             
+           Chris Wood NZL             Nott'ham Forest FW              26             
+          Jamie Vardy ENG              Leicester City FW              25             
+
+Bottom 3:
+Player             Nation          Team            Position         Offsides      
+   Aaron Cresswell ENG                    West Ham DF              0              
+    Aaron Ramsdale ENG                 Southampton GK              0              
+Abdukodir Khusanov UZB             Manchester City DF              0              
+
+--- Crosses ---
+Top 3:
+Player          Nation          Team            Position         Crosses       
+    Pedro Porro ESP                  Tottenham  DF              191            
+   Bryan Mbeumo CMR                  Brentford  FW              177            
+Bruno Fernandes POR             Manchester Utd  MF              172            
+
+Bottom 3:
+Player          Nation          Team            Position         Crosses       
+Aaron Ramsdale  ENG              Southampton    GK              0              
+ Alex McCarthy  ENG              Southampton    GK              0              
+   Alex Palmer  ENG             Ipswich Town    GK              0              
+
+--- Ball Recoveries ---
+Top 3:
+Player          Nation          Team            Position         Ball Recoveries
+ Moisés Caicedo ECU                     Chelsea MF              197             
+Bruno Fernandes POR              Manchester Utd MF              192             
+Elliot Anderson ENG             Nott'ham Forest MF              186             
+
+Bottom 3:
+Player                  Nation          Team            Position         Ball Recoveries
+             Danny Ward WAL             Leicester City  GK              1               
+         Fraser Forster ENG                  Tottenham  GK              1               
+Hákon Rafn Valdimarsson ISL                  Brentford  GK              1               
+
+--- Aerials Won ---
+Top 3:
+Player          Nation          Team            Position         Aerials Won   
+       Dan Burn ENG             Newcastle Utd   DF              127            
+Virgil van Dijk NED                 Liverpool   DF              110            
+ Nathan Collins IRL                 Brentford   DF              109            
+
+Bottom 3:
+Player          Nation          Team            Position         Aerials Won   
+Andrés García   ESP                Aston Villa  DF,MF           0              
+       Antony   BRA             Manchester Utd  DF,MF           0              
+Billy Gilmour   SCO                   Brighton     MF           0              
+
+--- Aerials Lost ---
+Top 3:
+Player               Nation          Team            Position         Aerials Lost  
+          Chris Wood NZL             Nott'ham Forest FW              122            
+Jørgen Strand Larsen NOR                      Wolves FW               96            
+Jean-Philippe Mateta FRA              Crystal Palace FW               95            
+
+Bottom 3:
+Player          Nation          Team            Position         Aerials Lost  
+ Aaron Ramsdale ENG             Southampton        GK           0              
+Albert Grønbaek DEN             Southampton     FW,MF           0              
+  Alex McCarthy ENG             Southampton        GK           0              
+
+--- Aerials Won Percentage ---
+Top 3:
+Player          Nation          Team            Position         Aerials Won Percentage
+ Aaron Ramsdale ENG             Southampton        GK           100.0                  
+Albert Grønbaek DEN             Southampton     FW,MF           100.0                  
+  Alex McCarthy ENG             Southampton        GK           100.0                  
+
+Bottom 3:
+Player          Nation          Team            Position         Aerials Won Percentage
+Andrés García   ESP                Aston Villa  DF,MF           0.0                    
+       Antony   BRA             Manchester Utd  DF,MF           0.0                    
+  Emi Buendía   ARG                Aston Villa  MF,FW           0.0                    
+

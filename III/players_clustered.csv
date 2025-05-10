@@ -1,0 +1,491 @@
+Player,Position,Team,Goals,Assists,Minutes,Expected Goals,Goals Scored per 90 minutes,Assists per 90 minutes,Shots on target per 90 minutes,Progressive Carries in Progression,Progressive Passes in Progression,Pass Completion Percentage,Tackles,Interceptions,Blocks,Cluster
+Aaron Cresswell,DF,West Ham,0,0,589.0,0.1,0.0,0.0,0.0,4,24,80.7,8,6,7,0
+Aaron Ramsdale,GK,Southampton,0,0,2340.0,0.0,0.0,0.0,0.0,0,0,64.4,0,2,0,0
+Aaron Wan-Bissaka,DF,West Ham,2,2,2794.0,1.2,0.06,0.06,0.16,98,125,81.1,61,59,31,1
+Abdoulaye Doucouré,MF,Everton,3,1,2425.0,3.9,0.11,0.04,0.33,40,78,79.6,45,9,30,1
+Abdukodir Khusanov,DF,Manchester City,0,0,503.0,0.0,0.0,0.0,0.0,1,25,91.1,5,3,5,0
+Abdul Fatawu Issahaku,FW,Leicester City,0,2,579.0,0.4,0.0,0.31,0.78,42,17,62.4,21,4,7,0
+Adam Armstrong,"FW,MF",Southampton,2,2,1248.0,3.3,0.14,0.14,0.5,25,21,80.2,12,3,6,0
+Adam Lallana,MF,Southampton,0,2,361.0,0.2,0.0,0.5,0.0,6,24,85.0,8,5,4,0
+Adam Smith,DF,Bournemouth,0,0,1409.0,0.7,0.0,0.0,0.0,12,40,75.7,21,14,12,0
+Adam Webster,DF,Brighton,0,0,617.0,0.0,0.0,0.0,0.15,7,40,85.6,8,14,12,0
+Adam Wharton,MF,Crystal Palace,0,2,1258.0,0.3,0.0,0.14,0.36,14,105,75.6,34,18,10,1
+Adama Traoré,"FW,MF",Fulham,2,6,1568.0,3.8,0.11,0.34,0.63,87,61,72.0,17,1,7,2
+Albert Grønbaek,"FW,MF",Southampton,0,0,143.0,0.1,0.0,0.0,0.0,1,1,72.2,4,0,1,0
+Alejandro Garnacho,"MF,FW",Manchester Utd,5,1,2056.0,7.0,0.22,0.04,1.23,134,54,79.1,28,13,19,2
+Alex Iwobi,"FW,MF",Fulham,9,6,2721.0,4.5,0.3,0.2,0.89,132,196,74.4,37,11,25,2
+Alex McCarthy,GK,Southampton,0,0,450.0,0.0,0.0,0.0,0.0,0,0,75.0,0,0,0,0
+Alex Palmer,GK,Ipswich Town,0,0,900.0,0.0,0.0,0.0,0.0,0,1,65.5,0,0,0,0
+Alex Scott,MF,Bournemouth,0,0,683.0,0.7,0.0,0.0,0.66,14,48,82.9,25,10,15,0
+Alexander Isak,FW,Newcastle Utd,22,6,2487.0,19.0,0.8,0.22,1.34,77,77,74.0,12,3,18,2
+Alexis Mac Allister,MF,Liverpool,5,4,2553.0,2.8,0.18,0.14,0.46,34,170,83.4,95,22,60,1
+Ali Al Hamadi,FW,Ipswich Town,0,0,134.0,0.4,0.0,0.0,0.0,4,3,83.3,1,0,0,0
+Alisson,GK,Liverpool,0,0,2148.0,0.0,0.0,0.0,0.0,0,0,83.1,1,0,0,0
+Alphonse Areola,GK,West Ham,0,0,1990.0,0.0,0.0,0.0,0.0,0,0,70.4,2,0,0,0
+Amad Diallo,"FW,MF",Manchester Utd,6,6,1594.0,4.1,0.34,0.34,0.73,92,53,82.9,33,11,10,2
+Amadou Onana,MF,Aston Villa,3,0,1348.0,2.1,0.2,0.0,0.4,20,58,88.4,46,24,14,1
+Andreas Pereira,MF,Fulham,2,4,1879.0,3.5,0.1,0.19,0.38,27,99,68.9,22,8,16,1
+Andrew Robertson,DF,Liverpool,0,0,2308.0,1.0,0.0,0.0,0.08,58,165,83.0,38,20,9,1
+André,MF,Wolves,0,0,2170.0,0.4,0.0,0.0,0.04,8,92,92.7,76,32,40,1
+André Onana,GK,Manchester Utd,0,0,2970.0,0.0,0.0,0.0,0.0,0,1,73.1,1,0,0,0
+Andrés García,"DF,MF",Aston Villa,0,0,318.0,0.0,0.0,0.0,0.0,26,15,86.6,9,2,2,0
+Andy Irving,MF,West Ham,0,0,166.0,0.1,0.0,0.0,1.08,0,9,87.9,7,1,5,0
+Anthony Elanga,"FW,MF",Nott'ham Forest,6,9,2142.0,4.0,0.25,0.38,0.8,84,52,64.8,18,5,10,2
+Anthony Gordon,FW,Newcastle Utd,6,5,2200.0,8.0,0.25,0.2,0.65,109,92,73.1,31,6,24,2
+Antoine Semenyo,FW,Bournemouth,9,4,2907.0,9.3,0.28,0.12,1.15,132,106,73.3,53,10,59,2
+Antonee Robinson,DF,Fulham,0,10,2899.0,0.7,0.0,0.31,0.06,110,120,76.5,84,56,36,1
+Antony,"DF,MF",Manchester Utd,0,0,141.0,1.0,0.0,0.0,1.91,5,6,81.2,6,2,2,0
+Antonín Kinský,GK,Tottenham,0,0,360.0,0.0,0.0,0.0,0.0,1,1,80.0,3,0,0,0
+Archie Gray,"DF,MF",Tottenham,0,0,1391.0,0.0,0.0,0.0,0.06,5,32,88.6,12,12,19,0
+Arijanet Muric,GK,Ipswich Town,0,0,1620.0,0.0,0.0,0.0,0.0,0,1,71.7,0,0,0,0
+Armando Broja,FW,Everton,0,0,334.0,0.1,0.0,0.0,0.0,12,2,72.6,3,1,3,0
+Armel Bella Kotchap,DF,Southampton,0,0,331.0,0.3,0.0,0.0,0.0,0,5,90.2,7,5,2,0
+Ashley Young,"DF,FW",Everton,1,3,1613.0,0.3,0.06,0.17,0.17,20,82,70.0,50,23,10,1
+Axel Disasi,DF,Chelsea,1,0,364.0,0.3,0.25,0.0,0.25,6,16,90.8,7,2,4,0
+Axel Disasi,DF,Aston Villa,0,0,490.0,0.1,0.0,0.0,0.0,10,16,86.8,8,5,4,0
+Axel Tuanzebe,DF,Ipswich Town,0,1,1445.0,0.2,0.0,0.06,0.0,9,45,83.1,29,21,18,0
+Ayden Heaven,DF,Manchester Utd,0,0,95.0,0.0,0.0,0.0,0.0,1,2,81.6,3,1,2,0
+Bart Verbruggen,GK,Brighton,0,1,2880.0,0.0,0.0,0.03,0.0,0,2,78.0,0,0,1,0
+Ben Brereton,FW,Southampton,0,0,449.0,0.9,0.0,0.0,0.2,12,9,77.1,3,0,2,0
+Ben Chilwell,DF,Crystal Palace,0,0,139.0,0.1,0.0,0.0,0.65,2,3,65.2,4,4,3,0
+Ben Davies,DF,Tottenham,0,0,1036.0,0.3,0.0,0.0,0.09,13,49,89.4,13,11,23,0
+Ben Godfrey,DF,Ipswich Town,0,0,159.0,0.0,0.0,0.0,0.0,2,4,82.5,1,2,1,0
+Ben Johnson,"DF,FW",Ipswich Town,1,2,1348.0,1.1,0.07,0.13,0.2,16,26,71.5,38,13,22,0
+Ben Mee,DF,Brentford,0,0,183.0,0.0,0.0,0.0,0.0,3,11,77.5,2,4,3,0
+Ben White,DF,Arsenal,0,1,856.0,0.4,0.0,0.11,0.11,10,42,83.9,12,12,9,0
+Benoît Badiashile,DF,Chelsea,0,0,334.0,0.0,0.0,0.0,0.0,3,17,89.8,9,6,2,0
+Bernardo Silva,"MF,FW",Manchester City,3,4,2311.0,3.2,0.12,0.16,0.39,92,109,86.9,49,19,30,1
+Bernd Leno,GK,Fulham,0,1,3060.0,0.0,0.0,0.03,0.0,0,0,81.2,2,0,1,0
+Beto,FW,Everton,6,0,1192.0,6.1,0.45,0.0,1.36,12,9,56.6,13,3,7,2
+Bilal El Khannouss,MF,Leicester City,2,2,1920.0,0.9,0.09,0.09,0.28,61,118,75.2,46,6,19,1
+Billy Gilmour,MF,Brighton,0,0,98.0,0.1,0.0,0.0,0.0,2,11,86.6,3,0,1,0
+Bobby De Cordova-Reid,FW,Leicester City,1,2,744.0,0.8,0.12,0.24,0.36,14,15,70.4,9,0,6,0
+Boubacar Kamara,MF,Aston Villa,0,0,1373.0,0.4,0.0,0.0,0.07,16,72,89.2,46,16,17,1
+Boubakary Soumaré,MF,Leicester City,0,0,1953.0,0.3,0.0,0.0,0.0,31,94,86.7,33,24,19,1
+Brajan Gruda,"FW,MF",Brighton,0,3,507.0,0.4,0.0,0.53,0.36,16,17,73.4,14,2,8,0
+Brennan Johnson,FW,Tottenham,11,3,2083.0,9.8,0.48,0.13,0.86,57,70,71.0,39,4,25,2
+Bruno Fernandes,MF,Manchester Utd,8,9,2758.0,9.5,0.26,0.29,0.82,65,281,75.2,76,25,32,2
+Bruno Guimarães,MF,Newcastle Utd,4,6,2912.0,3.8,0.12,0.19,0.28,53,241,82.1,71,27,33,1
+Bryan Mbeumo,FW,Brentford,18,6,3054.0,10.8,0.53,0.18,0.88,114,126,66.8,44,14,22,2
+Bukayo Saka,"FW,MF",Arsenal,6,10,1454.0,5.9,0.37,0.62,1.18,79,61,75.1,23,2,19,2
+Caleb Okoli,DF,Leicester City,1,0,1124.0,0.6,0.08,0.0,0.16,3,32,86.4,25,15,24,0
+Callum Hudson-Odoi,"FW,MF",Nott'ham Forest,5,2,2152.0,2.5,0.21,0.08,0.71,127,66,82.2,20,13,11,2
+Callum Wilson,FW,Newcastle Utd,0,0,268.0,0.3,0.0,0.0,0.0,5,3,69.2,2,1,2,0
+Calvin Bassey,DF,Fulham,1,0,2804.0,1.0,0.03,0.0,0.13,35,104,89.6,51,18,37,1
+Cameron Archer,FW,Southampton,2,0,1361.0,5.1,0.13,0.0,0.6,19,14,81.1,11,2,5,0
+Cameron Burgess,DF,Ipswich Town,0,1,1361.0,0.7,0.0,0.07,0.07,2,40,80.8,14,13,18,0
+Caoimhín Kelleher,GK,Liverpool,0,0,900.0,0.0,0.0,0.0,0.0,0,0,75.7,0,0,0,0
+Carlos Alcaraz,"FW,MF",Everton,1,1,491.0,1.3,0.18,0.18,1.1,14,27,76.6,11,3,5,0
+Carlos Baleba,MF,Brighton,3,1,2313.0,3.0,0.12,0.04,0.43,40,111,87.7,71,40,43,1
+Carlos Forbs,"MF,FW",Wolves,0,0,239.0,0.1,0.0,0.0,0.0,10,8,65.9,8,1,3,0
+Carlos Soler,"MF,FW",West Ham,1,1,1347.0,1.7,0.07,0.07,0.47,16,52,85.1,13,8,19,0
+Casemiro,MF,Manchester Utd,1,0,1335.0,1.7,0.07,0.0,0.54,4,70,78.5,77,12,33,1
+Charlie Taylor,DF,Southampton,0,0,266.0,0.0,0.0,0.0,0.0,3,8,87.0,7,3,5,0
+Cheick Doucouré,MF,Crystal Palace,0,0,452.0,0.4,0.0,0.0,0.0,2,19,85.3,16,11,4,0
+Chiedozie Ogbene,FW,Ipswich Town,0,0,238.0,0.0,0.0,0.0,0.0,7,0,74.4,7,1,1,0
+Chris Richards,DF,Crystal Palace,1,0,1562.0,1.2,0.06,0.0,0.29,5,34,81.1,42,10,35,1
+Chris Wood,FW,Nott'ham Forest,19,3,2599.0,11.4,0.66,0.1,1.07,13,34,66.6,4,5,11,2
+Christian Eriksen,MF,Manchester Utd,0,1,994.0,0.3,0.0,0.09,0.09,10,49,79.5,19,7,13,0
+Christian Nørgaard,MF,Brentford,5,2,2459.0,3.7,0.18,0.07,0.4,12,126,81.7,73,43,48,1
+Christian Walton,GK,Ipswich Town,0,0,540.0,0.0,0.0,0.0,0.0,0,0,67.3,0,0,0,0
+Christopher Nkunku,FW,Chelsea,3,2,921.0,4.8,0.29,0.2,1.07,17,25,89.5,12,7,9,0
+Cody Gakpo,FW,Liverpool,9,3,1627.0,6.4,0.5,0.17,1.11,48,51,76.0,26,11,19,2
+Cole Palmer,MF,Chelsea,14,8,2831.0,15.8,0.45,0.25,1.27,103,194,76.9,25,8,14,2
+Conor Bradley,DF,Liverpool,0,1,533.0,0.6,0.0,0.17,0.51,26,25,83.8,11,3,4,0
+Conor Chaplin,"MF,FW",Ipswich Town,1,1,645.0,1.2,0.14,0.14,0.42,10,25,73.3,12,3,8,0
+Conor Coady,DF,Leicester City,0,0,1354.0,0.1,0.0,0.0,0.07,2,28,90.6,12,11,26,0
+Conor Townsend,DF,Ipswich Town,0,1,335.0,0.0,0.0,0.27,0.0,2,8,63.0,11,4,8,0
+Craig Dawson,DF,Wolves,0,0,971.0,0.5,0.0,0.0,0.09,6,20,86.6,15,9,16,0
+Cristian Romero,DF,Tottenham,1,0,1416.0,1.6,0.06,0.0,0.51,12,71,89.5,35,21,18,1
+Crysencio Summerville,"FW,MF",West Ham,1,1,786.0,1.6,0.11,0.11,0.46,29,18,76.4,13,0,13,0
+Curtis Jones,"MF,DF",Liverpool,3,3,1438.0,4.1,0.19,0.19,0.75,23,85,93.2,34,5,15,1
+Daichi Kamada,MF,Crystal Palace,0,0,1338.0,1.0,0.0,0.0,0.27,23,73,79.5,43,16,19,1
+Dan Burn,DF,Newcastle Utd,1,0,2970.0,1.7,0.03,0.0,0.15,9,56,89.4,33,25,32,1
+Dango Ouattara,FW,Bournemouth,7,4,1932.0,8.4,0.33,0.19,0.93,77,41,59.8,34,11,34,2
+Daniel Muñoz,DF,Crystal Palace,4,4,2868.0,4.6,0.13,0.13,0.38,49,83,75.8,109,39,35,1
+Danilo,"MF,FW",Nott'ham Forest,0,0,267.0,0.0,0.0,0.0,0.0,2,11,78.1,6,3,2,0
+Danny Ings,"FW,MF",West Ham,1,2,284.0,2.3,0.32,0.63,1.58,6,5,68.5,4,1,5,2
+Danny Ward,GK,Leicester City,0,0,135.0,0.0,0.0,0.0,0.0,0,0,77.4,0,0,0,0
+Danny Welbeck,FW,Brighton,9,4,1852.0,8.1,0.44,0.19,0.97,19,40,84.0,22,5,16,2
+Dara O'Shea,DF,Ipswich Town,0,2,2762.0,1.1,0.0,0.07,0.07,3,70,77.7,45,31,59,1
+Darwin Núñez,FW,Liverpool,5,2,1018.0,5.0,0.44,0.18,1.06,22,27,70.7,18,3,6,2
+David Brooks,"FW,MF",Bournemouth,2,0,815.0,2.2,0.22,0.0,1.1,25,27,74.1,11,5,16,0
+David Raya,GK,Arsenal,0,0,3060.0,0.0,0.0,0.0,0.0,0,12,74.7,0,2,0,0
+Dean Henderson,GK,Crystal Palace,0,0,3060.0,0.0,0.0,0.0,0.0,0,0,61.8,2,0,0,0
+Dean Huijsen,DF,Bournemouth,2,1,2144.0,1.7,0.08,0.04,0.08,36,112,83.6,33,49,35,1
+Declan Rice,MF,Arsenal,2,7,2572.0,2.7,0.07,0.24,0.35,87,175,83.6,49,24,24,1
+Dejan Kulusevski,"MF,FW",Tottenham,7,4,2281.0,4.2,0.28,0.16,0.67,118,122,73.9,43,13,27,2
+Destiny Udogie,DF,Tottenham,0,1,1834.0,0.3,0.0,0.05,0.05,54,120,87.4,74,21,40,1
+Diego Carlos,DF,Aston Villa,0,0,830.0,0.6,0.0,0.0,0.11,3,34,88.6,8,5,13,0
+Diego Gómez,MF,Brighton,0,0,440.0,0.4,0.0,0.0,0.0,5,20,79.8,17,7,11,0
+Diogo Dalot,DF,Manchester Utd,0,3,2788.0,2.0,0.0,0.1,0.16,62,102,80.5,67,37,22,1
+Diogo Jota,FW,Liverpool,6,3,1097.0,7.3,0.49,0.25,1.07,36,33,69.6,14,7,9,2
+Djed Spence,DF,Tottenham,1,2,1514.0,0.6,0.06,0.12,0.18,53,98,86.0,39,17,22,1
+Dominic Calvert-Lewin,FW,Everton,3,1,1574.0,6.1,0.17,0.06,0.97,22,19,62.6,9,6,6,0
+Dominic Solanke,FW,Tottenham,8,3,2119.0,10.1,0.34,0.13,1.02,29,45,71.0,18,0,18,2
+Dominik Szoboszlai,MF,Liverpool,5,5,2257.0,7.1,0.2,0.2,0.8,65,114,84.5,31,9,35,2
+Donyell Malen,FW,Aston Villa,3,0,273.0,1.7,0.99,0.0,2.64,9,5,70.3,7,0,1,2
+Dwight McNeil,"MF,FW",Everton,3,4,1185.0,1.1,0.23,0.3,0.68,32,61,73.0,11,5,7,2
+Eberechi Eze,"MF,FW",Crystal Palace,4,8,2337.0,8.2,0.15,0.31,0.92,65,85,74.6,37,11,26,2
+Eddie Nketiah,"FW,MF",Crystal Palace,1,1,880.0,4.3,0.1,0.1,1.23,37,17,75.0,12,2,10,0
+Ederson,GK,Manchester City,0,4,1960.0,0.0,0.0,0.18,0.0,0,1,88.1,0,1,0,0
+Edmond-Paris Maghoma,"MF,FW",Brentford,0,0,119.0,0.1,0.0,0.0,0.0,4,13,90.5,2,1,2,0
+Edson Álvarez,MF,West Ham,0,1,1633.0,0.3,0.0,0.06,0.06,21,75,85.7,44,16,21,1
+Elliot Anderson,MF,Nott'ham Forest,2,6,2377.0,1.7,0.08,0.23,0.27,44,118,77.7,79,27,41,1
+Emerson Palmieri,DF,West Ham,2,1,2015.0,2.0,0.09,0.04,0.31,44,64,79.9,57,20,32,1
+Emi Buendía,"MF,FW",Aston Villa,0,0,98.0,0.7,0.0,0.0,0.0,3,7,81.7,6,0,5,0
+Emil Krafth,DF,Newcastle Utd,0,0,288.0,0.0,0.0,0.0,0.0,3,7,80.0,4,2,5,0
+Emile Smith Rowe,MF,Fulham,6,2,1852.0,4.4,0.29,0.1,0.49,50,120,90.0,30,11,20,1
+Emiliano Martínez,GK,Aston Villa,0,0,2880.0,0.0,0.0,0.0,0.0,0,3,79.0,3,0,1,0
+Emmanuel Agbadou,DF,Wolves,0,0,1050.0,0.3,0.0,0.0,0.09,3,21,84.4,25,9,15,0
+Enes Ünal,"FW,MF",Bournemouth,2,1,345.0,2.7,0.52,0.26,1.83,4,12,63.6,1,0,1,2
+Enzo Fernández,MF,Chelsea,5,7,2590.0,5.4,0.17,0.24,0.63,57,196,80.0,61,11,32,1
+Erling Haaland,FW,Manchester City,21,3,2480.0,20.8,0.76,0.11,1.96,19,18,66.0,9,5,11,2
+Ethan Nwaneri,"FW,MF",Arsenal,4,2,816.0,1.1,0.44,0.22,0.88,44,30,80.2,11,2,8,2
+Ethan Pinnock,DF,Brentford,2,0,1913.0,1.1,0.09,0.0,0.28,3,41,85.6,35,24,29,1
+Evan Ferguson,FW,Brighton,1,0,246.0,0.5,0.37,0.0,0.73,2,1,74.1,4,0,3,0
+Evan Ferguson,FW,West Ham,0,0,145.0,0.6,0.0,0.0,0.62,1,0,78.8,2,1,2,0
+Evanilson,FW,Bournemouth,9,1,1972.0,11.0,0.41,0.05,1.28,26,19,69.1,14,0,10,2
+Ezri Konsa,DF,Aston Villa,1,0,2576.0,0.9,0.03,0.0,0.1,16,73,92.7,32,21,17,1
+Fabian Schär,DF,Newcastle Utd,4,0,2575.0,2.1,0.14,0.0,0.35,14,95,83.6,32,40,36,1
+Fabio Carvalho,"FW,MF",Brentford,2,1,455.0,2.5,0.4,0.2,0.99,9,17,70.8,13,3,6,0
+Facundo Buonanotte,"FW,MF",Leicester City,4,2,1474.0,3.8,0.24,0.12,0.61,38,52,76.6,53,11,32,1
+Ferdi Kadioglu,"DF,MF",Brighton,1,0,385.0,0.4,0.23,0.0,0.23,1,15,82.3,10,8,2,0
+Filip Jørgensen,GK,Chelsea,0,0,540.0,0.0,0.0,0.0,0.0,0,0,83.6,0,0,0,0
+Flynn Downes,MF,Southampton,1,0,1791.0,0.6,0.05,0.0,0.15,24,59,89.8,43,30,22,1
+Fraser Forster,GK,Tottenham,0,0,630.0,0.0,0.0,0.0,0.0,0,0,84.8,0,0,0,0
+Gabriel Jesus,FW,Arsenal,3,0,608.0,3.0,0.44,0.0,1.04,15,19,76.8,10,4,10,0
+Gabriel Magalhães,DF,Arsenal,3,1,2363.0,2.6,0.11,0.04,0.19,10,126,90.2,25,16,42,1
+Gabriel Martinelli,"FW,MF",Arsenal,7,4,1956.0,5.9,0.32,0.18,0.87,106,44,71.0,19,4,10,2
+George Hirst,FW,Ipswich Town,2,1,470.0,1.3,0.38,0.19,0.77,9,12,55.0,3,2,1,0
+Georginio Rutter,"MF,FW",Brighton,5,3,1656.0,4.6,0.27,0.16,0.65,42,67,66.8,39,10,20,2
+Gonçalo Guedes,"MF,FW",Wolves,2,4,772.0,2.2,0.23,0.47,0.82,32,30,72.7,14,5,9,2
+Guglielmo Vicario,GK,Tottenham,0,0,1980.0,0.0,0.0,0.0,0.0,0,1,88.8,0,1,0,0
+Guido Rodríguez,MF,West Ham,0,0,1018.0,0.2,0.0,0.0,0.09,2,31,84.1,30,12,21,0
+Hamza Choudhury,"MF,DF",Leicester City,0,0,131.0,0.0,0.0,0.0,0.0,4,3,85.7,1,5,4,0
+Harry Amass,DF,Manchester Utd,0,0,166.0,0.0,0.0,0.0,0.0,5,4,82.8,4,1,3,0
+Harry Clarke,DF,Ipswich Town,0,0,379.0,0.1,0.0,0.0,0.24,5,14,80.5,5,4,5,0
+Harry Maguire,DF,Manchester Utd,1,0,1483.0,1.4,0.06,0.0,0.3,6,43,86.2,26,37,14,1
+Harry Toffolo,DF,Nott'ham Forest,0,0,137.0,0.0,0.0,0.0,0.0,0,2,70.1,5,2,2,0
+Harry Wilson,"FW,MF",Fulham,5,1,937.0,3.2,0.48,0.1,0.86,16,46,73.6,13,5,13,2
+Harry Winks,MF,Leicester City,0,2,1538.0,0.2,0.0,0.12,0.23,19,101,87.1,24,9,19,1
+Harvey Barnes,FW,Newcastle Utd,9,4,1413.0,6.3,0.57,0.25,1.02,74,69,79.3,16,6,7,2
+Harvey Elliott,"MF,FW",Liverpool,0,1,199.0,0.7,0.0,0.45,0.9,7,26,81.3,4,1,4,0
+Hwang Hee-chan,"MF,FW",Wolves,2,0,645.0,0.8,0.28,0.0,0.42,15,12,81.5,6,2,9,0
+Hákon Rafn Valdimarsson,GK,Brentford,0,0,145.0,0.0,0.0,0.0,0.0,0,0,65.7,0,0,0,0
+Ian Maatsen,DF,Aston Villa,1,2,887.0,0.7,0.1,0.2,0.51,26,39,81.8,25,15,10,0
+Ibrahim Sangaré,MF,Nott'ham Forest,0,1,295.0,0.0,0.0,0.31,0.31,0,14,80.4,18,3,5,0
+Ibrahima Konaté,DF,Liverpool,1,2,2320.0,1.7,0.04,0.08,0.12,21,103,90.3,36,12,27,1
+Idrissa Gana Gueye,MF,Everton,0,3,2705.0,1.1,0.0,0.1,0.17,24,126,86.5,123,41,44,1
+Igor,DF,Brighton,0,0,903.0,0.0,0.0,0.0,0.0,9,44,92.1,4,4,23,0
+Iliman Ndiaye,FW,Everton,7,0,2162.0,5.2,0.29,0.0,0.54,79,45,80.6,47,17,25,1
+Illia Zabarnyi,DF,Bournemouth,0,0,2752.0,1.1,0.0,0.0,0.0,24,125,81.3,46,35,33,1
+Ismaila Sarr,"MF,FW",Crystal Palace,7,4,2392.0,8.7,0.26,0.15,0.9,67,76,66.6,21,8,22,2
+Issa Diop,DF,Fulham,0,0,1339.0,0.5,0.0,0.0,0.13,6,25,87.5,26,9,10,0
+Jack Clarke,"FW,MF",Ipswich Town,0,4,1033.0,1.0,0.0,0.35,0.17,30,33,76.0,28,7,6,0
+Jack Grealish,"FW,MF",Manchester City,1,1,720.0,1.1,0.12,0.12,0.62,69,52,87.6,9,2,12,0
+Jack Harrison,FW,Everton,1,0,1887.0,3.3,0.05,0.0,0.29,62,45,63.2,30,9,18,0
+Jack Hinshelwood,"DF,MF",Brighton,2,2,1676.0,1.5,0.11,0.11,0.32,16,60,83.4,26,14,8,0
+Jack Stephens,DF,Southampton,1,0,1164.0,0.6,0.08,0.0,0.15,13,50,91.9,31,11,14,0
+Jack Taylor,MF,Ipswich Town,1,0,685.0,0.7,0.13,0.0,0.53,11,39,81.3,17,7,9,0
+Jacob Greaves,DF,Ipswich Town,1,0,1845.0,1.2,0.05,0.0,0.2,6,51,86.4,31,18,36,1
+Jacob Murphy,FW,Newcastle Utd,8,11,2084.0,5.6,0.35,0.48,0.65,69,63,68.2,22,11,31,2
+Jacob Ramsey,"FW,MF",Aston Villa,1,3,1485.0,1.4,0.06,0.18,0.24,57,64,85.5,29,7,21,1
+Jaden Philogene Bidace,"FW,MF",Aston Villa,0,0,332.0,0.5,0.0,0.0,0.0,7,4,73.3,11,3,5,0
+Jaden Philogene Bidace,"FW,DF",Ipswich Town,2,0,474.0,2.0,0.38,0.0,0.95,13,10,72.5,14,10,11,0
+Jadon Sancho,FW,Chelsea,3,4,1668.0,2.0,0.16,0.22,0.38,96,86,82.5,10,2,9,2
+Jahmai Simpson-Pusey,DF,Manchester City,0,0,96.0,0.0,0.0,0.0,0.0,1,3,93.0,1,0,1,0
+Jake O'Brien,DF,Everton,2,0,1301.0,0.7,0.14,0.0,0.21,7,41,77.2,20,4,15,0
+Jakub Kiwior,DF,Arsenal,1,0,762.0,0.2,0.12,0.0,0.12,5,35,91.0,12,2,8,0
+Jakub Stolarczyk,GK,Leicester City,0,0,540.0,0.0,0.0,0.0,0.0,0,1,67.9,2,0,0,0
+James Bree,DF,Southampton,0,1,895.0,0.1,0.0,0.1,0.1,10,31,83.8,15,8,8,0
+James Garner,"MF,DF",Everton,0,1,1234.0,0.3,0.0,0.07,0.15,10,38,72.8,37,16,14,0
+James Hill,DF,Bournemouth,0,1,448.0,0.3,0.0,0.2,0.0,3,16,64.9,15,9,5,0
+James Justin,DF,Leicester City,2,1,2579.0,1.5,0.07,0.03,0.21,37,86,77.6,48,42,39,1
+James Maddison,MF,Tottenham,9,7,1809.0,5.8,0.45,0.35,0.85,45,164,81.3,31,12,15,2
+James Mcatee,"MF,FW",Manchester City,3,0,297.0,2.8,0.91,0.0,1.21,7,6,80.8,4,2,8,0
+James Milner,MF,Brighton,0,0,169.0,0.2,0.0,0.0,0.0,1,10,75.3,5,2,4,0
+James Tarkowski,DF,Everton,1,1,2922.0,1.3,0.03,0.03,0.12,9,75,81.0,64,41,57,1
+James Ward-Prowse,MF,Nott'ham Forest,0,1,400.0,0.1,0.0,0.23,0.23,1,16,79.7,4,5,3,0
+James Ward-Prowse,MF,West Ham,0,1,802.0,0.5,0.0,0.11,0.22,9,45,87.6,13,5,6,0
+Jamie Vardy,FW,Leicester City,7,3,2571.0,10.2,0.25,0.11,0.7,27,20,66.9,18,3,8,2
+Jan Bednarek,DF,Southampton,2,0,2351.0,0.7,0.08,0.0,0.08,4,58,92.5,35,53,43,1
+Jan Paul van Hecke,DF,Brighton,1,1,2598.0,1.3,0.03,0.03,0.17,53,209,87.9,39,23,32,1
+Jannik Vestergaard,DF,Leicester City,0,0,1391.0,0.1,0.0,0.0,0.13,3,32,90.7,22,16,21,0
+Jarell Quansah,DF,Liverpool,0,0,315.0,0.1,0.0,0.0,0.0,2,12,90.4,10,5,5,0
+Jarrad Branthwaite,DF,Everton,0,1,2258.0,1.1,0.0,0.04,0.12,9,57,81.6,35,23,29,1
+Jarrod Bowen,"FW,MF",West Ham,9,7,2631.0,7.4,0.31,0.24,1.03,97,85,71.8,36,16,21,2
+Jason Steele,GK,Brighton,0,0,180.0,0.0,0.0,0.0,0.0,0,0,90.2,0,0,0,0
+Jean-Clair Todibo,DF,West Ham,0,0,1485.0,0.2,0.0,0.0,0.0,9,28,87.9,36,20,23,1
+Jean-Philippe Mateta,FW,Crystal Palace,14,2,2442.0,12.1,0.52,0.07,0.92,37,46,65.0,17,2,16,2
+Jean-Ricner Bellegarde,"MF,FW",Wolves,2,6,1486.0,1.3,0.12,0.36,0.3,47,36,79.2,33,10,18,2
+Jefferson Lerma,"MF,DF",Crystal Palace,0,1,2030.0,1.0,0.0,0.04,0.31,11,86,75.5,30,36,32,1
+Jeffrey Schlupp,"MF,DF",Crystal Palace,0,0,103.0,0.2,0.0,0.0,1.75,4,5,78.0,2,0,6,0
+Jens Cajuste,MF,Ipswich Town,1,0,1774.0,0.5,0.05,0.0,0.05,23,46,82.4,39,25,24,1
+Jeremy Doku,"FW,MF",Manchester City,3,5,1307.0,1.0,0.21,0.34,0.62,176,62,79.5,28,4,10,2
+Jesper Lindstrøm,FW,Everton,0,1,1239.0,2.1,0.0,0.07,0.73,30,25,69.4,45,12,15,0
+Joachim Andersen,DF,Fulham,0,0,2223.0,0.9,0.0,0.0,0.16,13,103,82.9,24,30,31,1
+Joe Aribo,"MF,DF",Southampton,3,0,1909.0,2.7,0.14,0.0,0.33,35,71,88.5,44,20,24,1
+Joe Gomez,DF,Liverpool,0,0,519.0,0.3,0.0,0.0,0.35,5,35,88.7,13,7,9,0
+Joe Lumley,GK,Southampton,0,0,270.0,0.0,0.0,0.0,0.0,0,0,70.2,0,0,0,0
+Joe Willock,"MF,FW",Newcastle Utd,0,2,953.0,1.5,0.0,0.19,0.28,34,35,81.9,25,5,22,0
+Joelinton,"MF,FW",Newcastle Utd,4,3,2393.0,3.9,0.15,0.11,0.49,40,116,82.7,57,23,37,1
+John McGinn,"MF,FW",Aston Villa,1,3,1992.0,2.9,0.05,0.14,0.23,30,90,82.8,31,14,20,1
+John Stones,"DF,MF",Manchester City,2,0,548.0,0.4,0.33,0.0,0.33,10,21,91.1,6,4,5,0
+Jonny Evans,DF,Manchester Utd,0,0,290.0,0.1,0.0,0.0,0.0,1,8,88.8,7,4,2,0
+Jordan Ayew,"FW,MF",Leicester City,4,0,1356.0,2.9,0.27,0.0,0.46,42,33,72.5,24,12,15,0
+Jordan Pickford,GK,Everton,0,1,3060.0,0.0,0.0,0.03,0.0,0,0,66.2,1,1,0,0
+Jorge Cuenca,DF,Fulham,0,0,259.0,0.0,0.0,0.0,0.0,0,9,83.6,2,2,3,0
+Jorginho,MF,Arsenal,0,0,703.0,0.1,0.0,0.0,0.0,12,48,86.7,12,7,3,0
+Joshua Acheampong,DF,Chelsea,0,0,170.0,0.2,0.0,0.0,0.0,0,8,83.9,2,1,1,0
+Joshua Zirkzee,"FW,MF",Manchester Utd,3,1,1402.0,4.8,0.19,0.06,0.71,14,44,71.2,14,6,15,0
+José Sá,GK,Wolves,0,0,2340.0,0.0,0.0,0.0,0.0,0,2,63.5,2,0,0,0
+Jota Silva,"FW,MF",Nott'ham Forest,3,1,844.0,2.1,0.32,0.11,0.75,20,19,60.7,25,12,9,0
+João Félix,"FW,MF",Chelsea,1,1,369.0,2.2,0.24,0.24,1.22,21,26,85.9,8,3,2,0
+João Gomes,MF,Wolves,3,1,2691.0,2.7,0.1,0.03,0.23,53,146,85.0,99,25,39,1
+João Pedro,"FW,MF",Brighton,10,6,1948.0,8.9,0.46,0.28,0.69,66,78,72.9,16,9,12,2
+Joël Veltman,DF,Brighton,0,0,1643.0,0.5,0.0,0.0,0.05,29,79,80.0,42,18,22,1
+Joško Gvardiol,DF,Manchester City,5,0,2917.0,4.4,0.15,0.0,0.34,78,240,90.9,51,36,39,1
+Julian Araujo,DF,Bournemouth,0,0,362.0,0.0,0.0,0.0,0.0,3,14,79.0,7,4,3,0
+Julio Enciso,"MF,FW",Brighton,0,0,294.0,1.0,0.0,0.0,3.37,11,14,66.0,0,0,2,0
+Julio Enciso,"FW,MF",Ipswich Town,1,3,620.0,1.2,0.15,0.44,1.02,13,22,70.3,11,1,2,0
+Jurriën Timber,DF,Arsenal,1,3,2417.0,1.2,0.04,0.11,0.15,57,146,85.6,58,22,19,1
+Justin Devenny,MF,Crystal Palace,1,0,429.0,0.7,0.21,0.0,0.84,4,16,70.6,14,0,3,0
+Justin Kluivert,"MF,FW",Bournemouth,12,6,2097.0,9.9,0.52,0.26,0.94,72,95,74.2,21,13,24,2
+Jáder Durán,FW,Aston Villa,7,0,638.0,4.9,0.99,0.0,2.12,7,13,70.6,8,0,5,2
+Jørgen Strand Larsen,FW,Wolves,13,2,2463.0,10.0,0.48,0.07,1.17,16,28,63.1,9,5,18,2
+Kai Havertz,"FW,MF",Arsenal,9,3,1839.0,9.4,0.44,0.15,1.03,34,59,78.5,16,6,22,2
+Kalvin Phillips,MF,Ipswich Town,0,0,1214.0,0.4,0.0,0.0,0.15,4,49,79.3,34,19,35,1
+Kamaldeen Sulemana,"FW,MF",Southampton,1,1,1122.0,1.3,0.08,0.08,0.64,56,25,79.1,16,6,9,0
+Kaoru Mitoma,"FW,MF",Brighton,9,3,2521.0,8.8,0.32,0.11,0.89,138,82,75.3,43,13,46,2
+Kasey McAteer,"FW,MF",Leicester City,0,1,529.0,0.6,0.0,0.17,0.51,14,10,70.4,12,3,12,0
+Keane Lewis-Potter,"DF,FW",Brentford,1,3,2759.0,2.6,0.03,0.1,0.46,92,88,77.2,44,19,24,1
+Kenny Tete,DF,Fulham,0,2,1438.0,1.2,0.0,0.13,0.13,33,46,81.2,49,28,20,1
+Kepa Arrizabalaga,GK,Bournemouth,0,0,2430.0,0.1,0.0,0.0,0.0,0,2,71.5,1,0,1,0
+Kevin Danso,DF,Tottenham,0,0,482.0,0.4,0.0,0.0,0.37,10,17,88.4,5,2,6,0
+Kevin De Bruyne,"MF,FW",Manchester City,3,7,1455.0,3.4,0.19,0.43,0.8,47,128,75.6,15,7,8,2
+Kevin Schade,FW,Brentford,8,2,1998.0,6.7,0.36,0.09,0.9,56,32,58.9,34,5,16,2
+Kieran Tierney,"DF,FW",Arsenal,0,0,181.0,0.2,0.0,0.0,0.0,5,12,82.1,5,2,0,0
+Kieran Trippier,DF,Newcastle Utd,0,3,1192.0,0.1,0.0,0.23,0.0,25,106,82.1,36,11,9,1
+Kiernan Dewsbury-Hall,"MF,FW",Chelsea,0,1,259.0,0.2,0.0,0.35,0.0,5,14,83.6,8,1,2,0
+Kobbie Mainoo,MF,Manchester Utd,0,0,1416.0,0.6,0.0,0.0,0.13,21,56,86.1,39,19,16,1
+Konstantinos Mavropanos,DF,West Ham,0,0,1944.0,1.5,0.0,0.0,0.23,16,60,85.9,32,38,23,1
+Kosta Nedeljković,DF,Aston Villa,0,0,126.0,0.0,0.0,0.0,0.0,1,6,88.7,7,0,1,0
+Kostas Tsimikas,DF,Liverpool,0,1,666.0,0.4,0.0,0.14,0.27,15,67,83.7,27,10,5,0
+Kristoffer Ajer,DF,Brentford,0,0,1395.0,0.8,0.0,0.0,0.19,27,52,78.2,25,12,17,0
+Kyle Walker,DF,Manchester City,0,0,970.0,0.1,0.0,0.0,0.19,12,64,87.7,17,3,13,0
+Kyle Walker-Peters,DF,Southampton,0,2,2828.0,0.8,0.0,0.06,0.19,112,134,88.0,43,18,25,1
+Lamare Bogarde,"DF,MF",Aston Villa,0,0,476.0,0.0,0.0,0.0,0.19,12,14,88.2,14,1,5,0
+Leandro Trossard,FW,Arsenal,8,5,2264.0,6.6,0.32,0.2,0.8,71,91,73.6,25,9,28,2
+Leif Davis,DF,Ipswich Town,1,2,2563.0,0.9,0.04,0.07,0.07,48,55,71.5,45,25,24,1
+Leny Yoro,DF,Manchester Utd,0,0,1069.0,0.7,0.0,0.0,0.08,19,48,92.2,25,17,5,0
+Leon Bailey,"FW,MF",Aston Villa,1,2,1138.0,1.7,0.08,0.16,0.47,57,35,70.7,6,3,6,0
+Lesley Ugochukwu,MF,Southampton,1,1,1447.0,0.8,0.06,0.06,0.06,27,48,84.5,46,12,25,1
+Levi Colwill,DF,Chelsea,1,1,2789.0,1.3,0.03,0.03,0.1,13,124,89.6,40,31,34,1
+Lewis Cook,"MF,DF",Bournemouth,1,3,2726.0,0.9,0.03,0.1,0.13,33,152,76.5,77,40,28,1
+Lewis Dunk,DF,Brighton,0,0,1993.0,0.8,0.0,0.0,0.14,20,142,90.9,17,12,26,1
+Lewis Hall,DF,Newcastle Utd,0,4,2189.0,0.4,0.0,0.16,0.04,41,123,81.7,58,18,33,1
+Lewis Miley,MF,Newcastle Utd,1,0,249.0,0.5,0.36,0.0,0.72,2,14,87.7,11,2,5,0
+Liam Delap,FW,Ipswich Town,12,2,2424.0,9.1,0.45,0.07,1.0,59,30,61.0,10,2,8,2
+Lisandro Martínez,DF,Manchester Utd,2,1,1751.0,1.3,0.1,0.05,0.31,23,117,89.4,40,32,22,1
+Lloyd Kelly,DF,Newcastle Utd,0,1,303.0,0.4,0.0,0.3,0.0,0,9,80.7,5,1,6,0
+Lucas Bergvall,MF,Tottenham,0,1,1212.0,0.7,0.0,0.07,0.15,33,49,87.4,39,24,18,1
+Lucas Digne,DF,Aston Villa,0,4,2241.0,0.8,0.0,0.16,0.12,23,54,75.0,62,25,23,1
+Lucas Paquetá,"MF,FW",West Ham,4,0,2257.0,5.2,0.16,0.0,0.12,20,140,77.4,63,17,27,1
+Luis Díaz,FW,Liverpool,12,5,2225.0,10.0,0.49,0.2,1.09,103,103,84.3,33,7,18,2
+Luis Guilherme,"MF,FW",West Ham,0,0,138.0,0.3,0.0,0.0,0.65,3,3,83.9,1,3,7,0
+Luis Sinisterra,"FW,MF",Bournemouth,1,1,236.0,1.2,0.38,0.38,2.29,19,6,78.5,7,1,3,2
+Luke Shaw,DF,Manchester Utd,0,0,173.0,0.0,0.0,0.0,0.0,6,18,84.1,3,2,2,0
+Luke Thomas,DF,Leicester City,0,0,783.0,0.1,0.0,0.0,0.0,3,26,78.9,24,15,13,0
+Luke Woolfenden,DF,Ipswich Town,0,0,1097.0,0.0,0.0,0.0,0.0,7,15,87.7,9,18,21,0
+Mads Hermansen,GK,Leicester City,0,0,2385.0,0.0,0.0,0.0,0.0,0,1,61.0,1,0,1,0
+Mads Roerslev,DF,Brentford,0,2,1101.0,0.2,0.0,0.16,0.16,17,51,78.7,18,4,12,0
+Malo Gusto,DF,Chelsea,0,1,1819.0,1.7,0.0,0.05,0.2,48,118,86.4,43,23,29,1
+Manuel Akanji,DF,Manchester City,0,0,1711.0,0.7,0.0,0.0,0.05,38,135,93.9,15,7,11,1
+Manuel Ugarte Ribeiro,MF,Manchester Utd,1,1,1616.0,1.0,0.06,0.06,0.17,12,55,87.5,70,25,27,1
+Marc Cucurella,DF,Chelsea,4,1,2628.0,2.6,0.14,0.03,0.31,30,104,88.0,58,23,40,1
+Marc Guéhi,DF,Crystal Palace,3,2,2879.0,1.9,0.09,0.06,0.22,22,126,83.3,56,25,53,1
+Marco Asensio,"MF,FW",Aston Villa,3,1,481.0,4.2,0.56,0.19,1.5,15,31,80.3,7,1,2,2
+Marcos Senesi,DF,Bournemouth,0,0,1014.0,0.8,0.0,0.0,0.0,12,51,76.6,35,11,15,0
+Marcus Rashford,FW,Aston Villa,2,2,444.0,3.1,0.41,0.41,1.01,22,13,71.3,10,1,2,2
+Marcus Rashford,"FW,MF",Manchester Utd,4,1,978.0,1.7,0.37,0.09,0.83,20,21,73.8,7,4,8,0
+Marcus Tavernier,"FW,MF",Bournemouth,3,5,1580.0,5.2,0.17,0.28,0.85,39,99,72.4,39,4,15,2
+Mario Lemina,"MF,DF",Wolves,1,3,1364.0,1.4,0.07,0.2,0.33,8,48,80.4,51,27,12,1
+Mark Flekken,GK,Brentford,0,2,2915.0,0.0,0.0,0.06,0.0,0,0,73.3,4,0,2,0
+Mark Travers,GK,Bournemouth,0,0,450.0,0.0,0.0,0.0,0.0,0,0,70.4,0,0,0,0
+Marshall Munetsi,"MF,FW",Wolves,1,1,788.0,3.0,0.11,0.11,0.57,5,8,73.6,19,5,9,0
+Martin Dúbravka,GK,Newcastle Utd,0,0,900.0,0.0,0.0,0.0,0.0,0,0,79.6,0,0,0,0
+Martin Ødegaard,MF,Arsenal,2,6,2040.0,4.4,0.09,0.26,0.57,79,231,82.6,19,4,4,2
+Mason Mount,"MF,FW",Manchester Utd,0,0,374.0,1.5,0.0,0.0,0.72,9,18,79.9,8,2,7,0
+Massimo Luongo,MF,Ipswich Town,0,0,196.0,0.0,0.0,0.0,0.0,0,5,75.4,8,2,4,0
+Mateo Kovačić,MF,Manchester City,6,1,1960.0,1.7,0.28,0.05,0.55,51,142,92.5,61,20,19,1
+Mateus Fernandes,MF,Southampton,2,3,2584.0,3.7,0.07,0.1,0.49,72,130,79.7,81,21,39,1
+Matheus Cunha,"MF,FW",Wolves,15,6,2341.0,7.9,0.58,0.23,1.54,103,129,72.0,35,16,19,2
+Matheus Nunes,"DF,MF",Manchester City,1,5,1404.0,0.9,0.06,0.32,0.19,56,66,86.5,28,12,14,1
+Mathias Jensen,MF,Brentford,0,2,793.0,0.2,0.0,0.23,0.11,6,55,75.1,13,8,13,0
+Mathys Tel,FW,Tottenham,2,0,559.0,2.2,0.32,0.0,0.97,16,13,73.3,6,0,3,0
+Mats Wieffer,"MF,DF",Brighton,1,2,692.0,0.7,0.13,0.26,0.52,12,49,86.4,33,11,13,0
+Matt Doherty,DF,Wolves,2,1,1901.0,1.0,0.09,0.05,0.14,29,75,82.6,36,21,26,1
+Matt O'Riley,MF,Brighton,1,1,758.0,2.0,0.12,0.12,0.71,17,33,79.0,15,12,6,0
+Matthijs de Ligt,DF,Manchester Utd,2,0,2089.0,2.5,0.09,0.0,0.39,7,55,90.1,30,33,29,1
+Matty Cash,DF,Aston Villa,1,1,1710.0,0.3,0.05,0.05,0.21,44,38,78.6,46,21,17,1
+Matz Sels,GK,Nott'ham Forest,0,0,3060.0,0.0,0.0,0.0,0.0,0,1,50.5,1,0,0,0
+Max Kilman,DF,West Ham,0,1,2988.0,1.4,0.0,0.03,0.06,29,106,86.9,30,37,55,1
+Maxence Lacroix,DF,Crystal Palace,1,1,2756.0,2.8,0.03,0.03,0.16,8,59,81.9,67,50,41,1
+Michael Kayode,DF,Brentford,0,0,211.0,0.1,0.0,0.0,0.0,4,2,65.9,11,2,0,0
+Michael Keane,DF,Everton,2,0,852.0,0.4,0.21,0.0,0.32,1,12,81.6,10,10,11,0
+Michail Antonio,FW,West Ham,1,1,836.0,2.2,0.11,0.11,0.43,29,18,60.6,2,0,6,0
+Micky van de Ven,DF,Tottenham,0,2,950.0,0.6,0.0,0.19,0.19,8,51,91.0,10,10,9,0
+Miguel Almirón,FW,Newcastle Utd,0,0,157.0,0.5,0.0,0.0,1.15,3,6,81.8,3,0,2,0
+Mikel Merino,"MF,FW",Arsenal,6,2,1401.0,4.4,0.39,0.13,0.77,9,61,77.9,38,13,17,2
+Mikey Moore,"FW,MF",Tottenham,0,1,185.0,0.2,0.0,0.49,0.0,9,7,71.6,0,1,1,0
+Mikkel Damsgaard,"MF,FW",Brentford,2,10,2578.0,2.6,0.07,0.35,0.24,63,208,72.9,74,25,34,1
+Milos Kerkez,DF,Bournemouth,2,5,2987.0,0.5,0.06,0.15,0.15,93,143,75.2,49,40,36,1
+Mohamed Salah,FW,Liverpool,28,18,3011.0,23.9,0.84,0.54,1.4,142,129,71.3,20,7,11,2
+Mohammed Kudus,"FW,MF",West Ham,4,2,2331.0,6.5,0.15,0.08,0.77,88,74,83.6,33,4,23,2
+Moisés Caicedo,MF,Chelsea,1,2,2991.0,0.8,0.03,0.06,0.09,38,194,89.7,100,47,44,1
+Morato,DF,Nott'ham Forest,0,0,799.0,0.2,0.0,0.0,0.11,0,14,74.2,21,10,11,0
+Morgan Gibbs-White,MF,Nott'ham Forest,5,7,2451.0,4.7,0.18,0.26,0.66,63,145,78.1,39,18,15,2
+Morgan Rogers,"FW,MF",Aston Villa,8,8,2763.0,6.1,0.26,0.26,0.62,102,113,73.9,35,5,24,2
+Murillo,DF,Nott'ham Forest,1,0,2928.0,1.4,0.03,0.0,0.15,20,102,77.9,52,30,66,1
+Mykhailo Mudryk,FW,Chelsea,0,0,151.0,0.3,0.0,0.0,0.6,7,5,66.7,2,0,3,0
+Myles Lewis-Skelly,DF,Arsenal,1,0,1078.0,0.1,0.08,0.0,0.08,29,57,90.7,21,6,1,0
+Nathan Aké,DF,Manchester City,0,0,678.0,0.2,0.0,0.0,0.0,12,50,93.9,9,3,7,0
+Nathan Broadhead,"MF,FW",Ipswich Town,1,0,605.0,1.5,0.15,0.0,0.89,17,12,76.0,7,4,6,0
+Nathan Collins,DF,Brentford,2,3,3060.0,2.5,0.06,0.09,0.18,28,113,85.8,36,31,69,1
+Nathan Patterson,DF,Everton,0,0,266.0,0.1,0.0,0.0,0.0,5,9,74.4,8,1,2,0
+Nathan Wood-Gordon,DF,Southampton,0,0,624.0,0.2,0.0,0.0,0.0,2,17,92.8,10,4,8,0
+Nathaniel Clyne,"DF,MF",Crystal Palace,0,0,483.0,0.0,0.0,0.0,0.0,6,7,76.0,12,3,4,0
+Neco Williams,DF,Nott'ham Forest,1,2,2234.0,2.2,0.04,0.08,0.24,57,75,75.6,73,24,39,1
+Neto,GK,Bournemouth,0,0,180.0,0.0,0.0,0.0,0.0,0,0,64.5,0,0,0,0
+Nick Pope,GK,Newcastle Utd,0,0,2160.0,0.0,0.0,0.0,0.0,0,1,72.5,0,1,1,0
+Niclas Füllkrug,FW,West Ham,3,2,589.0,1.9,0.46,0.31,0.76,6,9,64.6,2,0,1,0
+Nico O’Reilly,DF,Manchester City,2,0,456.0,1.2,0.39,0.0,0.39,15,13,86.5,7,3,2,0
+Nicolas Jackson,FW,Chelsea,10,5,2114.0,12.2,0.43,0.21,1.36,46,37,76.2,19,3,13,2
+Nicolás Domínguez,"MF,FW",Nott'ham Forest,0,1,1669.0,1.4,0.0,0.05,0.38,12,66,87.0,75,27,34,1
+Nicolás González,MF,Manchester City,0,0,647.0,0.3,0.0,0.0,0.0,5,46,92.9,15,4,9,0
+Nikola Milenković,DF,Nott'ham Forest,4,2,2970.0,3.6,0.12,0.06,0.21,3,49,80.8,43,24,39,1
+Noni Madueke,FW,Chelsea,7,3,1723.0,8.2,0.37,0.16,1.57,133,63,77.5,22,8,14,2
+Noussair Mazraoui,DF,Manchester Utd,0,1,2639.0,0.7,0.0,0.03,0.1,37,102,85.5,102,34,33,1
+Nélson Semedo,DF,Wolves,0,4,2576.0,0.8,0.0,0.14,0.21,61,70,80.1,55,22,27,1
+Odsonne Édouard,"MF,FW",Crystal Palace,0,0,115.0,0.4,0.0,0.0,0.78,2,4,60.7,1,0,1,0
+Ola Aina,DF,Nott'ham Forest,2,1,2643.0,0.6,0.07,0.03,0.07,56,95,73.2,55,31,32,1
+Oleksandr Zinchenko,"DF,MF",Arsenal,0,1,450.0,0.3,0.0,0.2,0.0,10,35,83.0,4,4,5,0
+Oliver Scarles,DF,West Ham,0,0,594.0,0.1,0.0,0.0,0.0,11,21,78.1,17,10,14,0
+Oliver Skipp,MF,Leicester City,0,0,907.0,0.2,0.0,0.0,0.1,15,29,84.6,17,9,15,0
+Ollie Watkins,FW,Aston Villa,15,7,2263.0,14.5,0.6,0.28,1.27,50,28,73.7,9,7,11,2
+Omar Marmoush,"FW,MF",Manchester City,6,0,916.0,4.7,0.59,0.0,1.57,20,26,78.4,11,5,14,2
+Omari Hutchinson,"MF,FW",Ipswich Town,3,2,2223.0,2.3,0.12,0.08,0.65,71,69,78.3,30,10,24,1
+Orel Mangala,MF,Everton,1,0,1261.0,1.1,0.07,0.0,0.43,6,34,89.2,16,21,8,0
+Pablo Sarabia,"MF,FW",Wolves,3,2,690.0,2.9,0.39,0.26,1.04,12,48,69.4,14,4,8,2
+Pape Matar Sarr,MF,Tottenham,3,2,1636.0,3.3,0.17,0.11,0.72,29,79,87.3,42,24,23,1
+Patrick Dorgu,DF,Manchester Utd,0,0,585.0,0.4,0.0,0.0,0.31,25,21,79.6,23,4,8,0
+Patson Daka,"FW,MF",Leicester City,1,0,647.0,1.3,0.14,0.0,0.56,9,8,71.9,17,1,7,0
+Pau Torres,DF,Aston Villa,0,0,1729.0,0.5,0.0,0.0,0.1,33,74,88.3,20,9,14,0
+Paul Onuachu,FW,Southampton,4,1,984.0,3.3,0.37,0.09,1.28,7,12,61.4,7,1,6,0
+Pedro Neto,FW,Chelsea,4,4,1923.0,2.8,0.19,0.19,0.75,110,56,78.5,21,8,12,2
+Pedro Porro,DF,Tottenham,2,6,2463.0,1.5,0.07,0.22,0.29,63,147,73.5,63,34,44,1
+Pervis Estupiñán,DF,Brighton,1,1,2132.0,0.9,0.04,0.04,0.3,55,115,83.3,54,30,16,1
+Phil Foden,"MF,FW",Manchester City,7,2,1686.0,5.1,0.37,0.11,0.85,47,95,84.0,12,9,12,2
+Philip Billing,MF,Bournemouth,0,0,184.0,0.6,0.0,0.0,0.49,3,15,68.6,14,5,3,0
+Radu Drăgușin,DF,Tottenham,0,0,1252.0,0.1,0.0,0.0,0.07,7,37,85.2,10,15,22,0
+Raheem Sterling,"FW,MF",Arsenal,0,2,432.0,1.3,0.0,0.42,0.0,25,17,77.1,8,1,3,0
+Ramón Sosa,"FW,MF",Nott'ham Forest,1,0,270.0,1.0,0.33,0.0,1.67,12,5,67.7,5,3,7,0
+Rasmus Højlund,FW,Manchester Utd,4,0,1744.0,3.8,0.21,0.0,0.52,26,16,76.7,3,1,5,0
+Rayan Aït-Nouri,DF,Wolves,4,7,2775.0,2.4,0.13,0.23,0.26,74,96,83.8,81,22,40,1
+Raúl Jiménez,FW,Fulham,10,3,2134.0,11.2,0.42,0.13,1.14,32,55,71.4,28,9,19,2
+Reece James,"DF,MF",Chelsea,1,0,835.0,0.3,0.11,0.0,0.32,6,51,84.5,9,12,12,0
+Reiss Nelson,FW,Fulham,1,1,487.0,1.1,0.18,0.18,1.11,45,35,86.6,8,5,11,0
+Renato Veiga,"DF,MF",Chelsea,0,0,181.0,0.1,0.0,0.0,0.5,4,7,84.9,9,1,3,0
+Ricardo Pereira,DF,Leicester City,0,0,342.0,0.1,0.0,0.0,0.26,3,14,82.4,11,2,6,0
+Riccardo Calafiori,DF,Arsenal,2,1,925.0,0.9,0.19,0.1,0.58,21,54,85.4,26,9,12,0
+Richarlison,FW,Tottenham,4,1,408.0,3.6,0.88,0.22,1.54,8,10,65.1,4,0,1,2
+Rico Lewis,"DF,MF",Manchester City,1,2,1810.0,1.4,0.05,0.1,0.1,36,103,92.0,29,13,27,1
+Robert Sánchez,GK,Chelsea,0,0,2520.0,0.0,0.0,0.0,0.0,0,1,72.1,0,2,0,0
+Robin Olsen,GK,Aston Villa,0,0,180.0,0.0,0.0,0.0,0.0,0,0,71.1,1,0,0,0
+Rodrigo Bentancur,MF,Tottenham,2,0,1518.0,1.3,0.12,0.0,0.3,26,99,88.1,38,36,24,1
+Rodrigo Gomes,"DF,FW",Wolves,2,0,647.0,0.6,0.28,0.0,0.42,22,24,66.7,19,5,8,0
+Rodrigo Muniz,FW,Fulham,8,1,964.0,5.8,0.75,0.09,1.77,6,27,64.8,10,5,9,2
+Roméo Lavia,MF,Chelsea,0,1,607.0,0.2,0.0,0.15,0.0,3,23,91.0,19,13,6,0
+Ross Barkley,MF,Aston Villa,3,1,563.0,1.7,0.48,0.16,0.8,14,33,86.1,13,10,9,0
+Ross Stewart,FW,Southampton,0,0,241.0,0.2,0.0,0.0,0.0,1,1,75.8,3,0,3,0
+Ryan Christie,MF,Bournemouth,2,3,2117.0,1.8,0.09,0.13,0.51,34,137,79.3,54,30,44,1
+Ryan Fraser,"FW,DF",Southampton,0,0,306.0,0.0,0.0,0.0,0.29,10,8,74.8,6,1,1,0
+Ryan Gravenberch,MF,Liverpool,0,4,2921.0,1.0,0.0,0.12,0.15,65,168,88.9,65,57,34,1
+Ryan Manning,"DF,MF",Southampton,0,1,1369.0,0.3,0.0,0.07,0.07,13,32,78.1,28,16,19,0
+Ryan Sessegnon,"FW,DF",Fulham,4,2,414.0,1.6,0.87,0.43,1.52,12,14,74.5,19,2,9,2
+Ryan Yates,MF,Nott'ham Forest,2,1,1859.0,2.3,0.1,0.05,0.44,17,48,81.7,41,26,35,1
+Rúben Dias,DF,Manchester City,0,0,1911.0,1.4,0.0,0.0,0.24,34,120,93.3,15,18,17,1
+Sam Johnstone,GK,Wolves,0,0,630.0,0.0,0.0,0.0,0.0,0,0,66.2,0,0,0,0
+Sam Morsy,MF,Ipswich Town,1,1,2419.0,0.3,0.04,0.04,0.07,14,103,86.3,60,28,32,1
+Sammie Szmodics,"FW,MF",Ipswich Town,4,0,979.0,3.4,0.37,0.0,1.1,16,18,74.2,15,6,10,0
+Sander Berge,MF,Fulham,0,0,2017.0,0.2,0.0,0.0,0.0,27,110,91.3,48,20,26,1
+Sandro Tonali,MF,Newcastle Utd,3,2,2270.0,3.6,0.12,0.08,0.4,33,113,83.7,46,30,30,1
+Santiago Bueno,DF,Wolves,0,0,1678.0,0.4,0.0,0.0,0.16,1,28,88.2,40,15,35,1
+Saša Lukić,MF,Fulham,0,2,2079.0,1.0,0.0,0.09,0.09,37,87,87.8,62,25,17,1
+Sean Longstaff,MF,Newcastle Utd,0,0,797.0,0.6,0.0,0.0,0.11,4,40,84.5,27,7,17,0
+Sepp van den Berg,DF,Brentford,0,0,2226.0,1.7,0.0,0.0,0.2,9,68,84.2,35,20,48,1
+Sergio Reguilón,DF,Tottenham,0,0,123.0,0.1,0.0,0.0,0.0,4,12,69.5,4,2,4,0
+Simon Adingra,"FW,MF",Brighton,2,1,888.0,2.2,0.2,0.1,0.71,35,14,74.8,21,8,11,0
+Solly March,"FW,MF",Brighton,0,0,168.0,0.1,0.0,0.0,0.0,5,2,63.2,6,2,3,0
+Son Heung-min,FW,Tottenham,7,9,2004.0,7.0,0.31,0.4,1.08,87,104,79.0,17,5,10,2
+Stefan Ortega,GK,Manchester City,0,0,1100.0,0.0,0.0,0.0,0.0,0,0,81.3,0,0,0,0
+Stephy Mavididi,FW,Leicester City,4,1,1615.0,1.8,0.22,0.06,0.39,91,57,75.0,34,11,26,1
+Sven Botman,DF,Newcastle Utd,0,0,232.0,0.0,0.0,0.0,0.0,0,3,88.1,6,4,2,0
+Sávio,"FW,MF",Manchester City,1,8,1734.0,4.9,0.05,0.42,1.09,133,66,80.9,22,6,13,2
+Séamus Coleman,DF,Everton,0,0,197.0,0.6,0.0,0.0,0.46,1,8,72.2,2,1,5,0
+Taiwo Awoniyi,FW,Nott'ham Forest,1,0,408.0,2.1,0.22,0.0,0.88,6,7,64.2,6,0,1,0
+Tariq Lamptey,DF,Brighton,2,2,765.0,0.4,0.24,0.24,0.24,25,12,82.4,14,6,12,0
+Taylor Harwood-Bellis,DF,Southampton,1,0,2564.0,1.7,0.04,0.0,0.25,28,116,88.0,27,30,59,1
+Thiago,FW,Brentford,0,0,132.0,0.1,0.0,0.0,0.0,3,2,71.8,2,2,0,0
+Thomas Partey,"MF,DF",Arsenal,4,2,2437.0,2.0,0.15,0.07,0.26,31,165,87.7,79,32,23,1
+Tim Iroegbunam,MF,Everton,0,1,566.0,0.2,0.0,0.16,0.0,8,14,72.7,27,15,16,0
+Timo Werner,"FW,MF",Tottenham,0,3,516.0,1.0,0.0,0.52,0.52,42,30,66.9,6,1,10,0
+Timothy Castagne,DF,Fulham,0,1,1625.0,0.4,0.0,0.06,0.17,17,61,81.8,46,22,15,1
+Toby Collyer,MF,Manchester Utd,0,0,179.0,0.2,0.0,0.0,0.0,0,5,82.6,12,2,2,0
+Tom Cairney,MF,Fulham,1,0,494.0,0.2,0.18,0.0,0.36,14,47,90.4,11,4,5,0
+Tommy Doyle,MF,Wolves,0,1,488.0,0.6,0.0,0.18,0.37,6,40,81.9,11,5,11,0
+Tomáš Souček,MF,West Ham,8,1,2251.0,5.9,0.32,0.04,0.56,6,68,73.8,40,18,34,1
+Tosin Adarabioyo,DF,Chelsea,1,1,1229.0,0.9,0.07,0.07,0.15,5,37,91.4,14,10,9,0
+Toti Gomes,DF,Wolves,0,1,2254.0,0.7,0.0,0.04,0.08,21,67,85.2,51,22,27,1
+Trent Alexander-Arnold,DF,Liverpool,3,6,2240.0,1.8,0.12,0.24,0.32,49,211,73.6,70,30,25,1
+Trevoh Chalobah,DF,Chelsea,0,1,746.0,0.7,0.0,0.12,0.24,4,34,90.2,7,7,4,0
+Trevoh Chalobah,DF,Crystal Palace,3,0,1060.0,1.2,0.25,0.0,0.34,11,34,79.0,20,19,19,0
+Tyler Adams,MF,Bournemouth,0,3,1620.0,1.6,0.0,0.17,0.11,12,61,82.9,75,31,33,1
+Tyler Dibling,"FW,MF",Southampton,2,0,1697.0,2.5,0.11,0.0,0.48,67,60,80.8,34,8,19,1
+Tyrell Malacia,DF,Manchester Utd,0,0,100.0,0.0,0.0,0.0,0.0,3,3,89.1,2,1,0,0
+Tyrick Mitchell,DF,Crystal Palace,0,4,2852.0,1.2,0.0,0.13,0.06,56,62,72.2,85,14,62,1
+Tyrique George,FW,Chelsea,1,1,103.0,0.2,0.87,0.87,0.87,9,2,82.6,2,1,0,2
+Tyrone Mings,DF,Aston Villa,0,0,1051.0,0.8,0.0,0.0,0.09,6,39,88.6,6,7,13,0
+Valentino Livramento,DF,Newcastle Utd,0,1,2480.0,0.2,0.0,0.04,0.04,72,136,85.0,50,21,33,1
+Victor Bernth Kristiansen,DF,Leicester City,0,1,2380.0,0.3,0.0,0.04,0.0,39,69,77.6,85,40,37,1
+Victor Lindelöf,DF,Manchester Utd,0,0,470.0,0.0,0.0,0.0,0.0,1,9,93.8,5,7,4,0
+Virgil van Dijk,DF,Liverpool,2,1,3060.0,2.0,0.06,0.03,0.21,18,176,91.6,35,52,24,1
+Vitaliy Mykolenko,DF,Everton,0,1,2722.0,0.4,0.0,0.03,0.0,31,102,74.3,54,36,24,1
+Vitaly Janelt,MF,Brentford,1,3,2254.0,0.8,0.04,0.12,0.16,17,80,82.5,38,27,33,1
+Vladimír Coufal,DF,West Ham,0,0,865.0,0.2,0.0,0.0,0.1,15,32,77.7,17,8,13,0
+Wataru Endo,MF,Liverpool,0,0,169.0,0.0,0.0,0.0,0.0,0,9,92.8,8,3,5,0
+Welington,"DF,MF",Southampton,0,0,215.0,0.0,0.0,0.0,0.0,3,6,77.5,13,3,3,0
+Wes Burns,"FW,DF",Ipswich Town,0,1,926.0,0.5,0.0,0.1,0.1,38,8,60.5,13,10,7,0
+Wesley Fofana,DF,Chelsea,0,0,1172.0,0.4,0.0,0.0,0.0,19,32,90.2,13,14,14,0
+Wilfred Ndidi,MF,Leicester City,0,4,2057.0,1.8,0.0,0.18,0.35,16,64,79.3,77,24,45,1
+Will Hughes,MF,Crystal Palace,0,3,1869.0,1.0,0.0,0.14,0.05,18,82,76.1,61,19,29,1
+William Osula,FW,Newcastle Utd,1,0,104.0,0.1,0.87,0.0,0.87,2,2,61.1,1,4,0,0
+William Saliba,DF,Arsenal,2,0,2814.0,2.3,0.06,0.0,0.06,16,134,94.2,58,21,23,1
+William Smallbone,MF,Southampton,1,0,612.0,0.4,0.15,0.0,0.15,5,23,77.3,17,2,7,0
+Willian,"FW,MF",Fulham,0,0,226.0,0.3,0.0,0.0,0.0,8,36,84.8,3,1,0,0
+Willy Boly,DF,Nott'ham Forest,0,0,150.0,0.1,0.0,0.0,0.6,0,2,78.6,6,3,4,0
+Wilson Odobert,FW,Tottenham,0,0,539.0,0.7,0.0,0.0,0.33,38,19,77.9,8,3,4,0
+Wout Faes,DF,Leicester City,1,0,2455.0,1.4,0.04,0.0,0.04,12,74,87.1,38,26,45,1
+Woyo Coulibaly,DF,Leicester City,0,0,109.0,0.0,0.0,0.0,0.83,4,3,84.2,6,5,3,0
+Yankuba Minteh,"FW,MF",Brighton,5,4,1498.0,3.7,0.3,0.24,0.78,68,37,61.7,43,10,17,2
+Yasin Ayari,MF,Brighton,1,1,1737.0,2.2,0.05,0.05,0.36,30,66,81.4,53,20,22,1
+Yehor Yarmoliuk,MF,Brentford,0,0,1129.0,0.6,0.0,0.0,0.16,14,48,85.6,37,10,23,0
+Yerson Mosquera,DF,Wolves,0,0,441.0,0.3,0.0,0.0,0.0,0,7,85.4,11,10,13,0
+Yoane Wissa,FW,Brentford,17,3,2560.0,15.3,0.6,0.11,1.23,50,57,76.7,21,8,28,2
+Youri Tielemans,MF,Aston Villa,2,7,2915.0,3.0,0.06,0.22,0.34,37,226,82.4,82,21,36,1
+Yukinari Sugawara,"DF,MF",Southampton,1,1,1467.0,0.5,0.06,0.06,0.31,32,68,79.9,29,10,17,0
+Yves Bissouma,MF,Tottenham,2,0,1210.0,0.6,0.15,0.0,0.3,15,71,89.4,44,14,7,0
+Álex Moreno,"DF,MF",Nott'ham Forest,0,1,955.0,0.2,0.0,0.09,0.0,26,34,72.0,25,15,11,0
+İlkay Gündoğan,MF,Manchester City,0,5,1967.0,2.7,0.0,0.23,0.23,55,113,89.3,24,13,14,1
+Łukasz Fabiański,GK,West Ham,0,0,1070.0,0.0,0.0,0.0,0.0,0,0,67.0,0,0,0,0
