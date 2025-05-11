@@ -190,6 +190,12 @@ def save_progress(player_data_list, filename='result_final.csv'):
                             df.at[idx, "Transfer Fee"] = player["value"]
                             update_count += 1
                         break
+            for player in player_data_list:
+                if row["Player"].strip().lower() == player["name"].strip().lower():
+                    if pd.isna(row["Transfer Fee"]) or row["Transfer Fee"] != player["value"]:
+                        df.at[idx, "Transfer Fee"] = player["value"]
+                        update_count += 1
+                    break
 
         df.to_csv(filename, index=False, encoding='utf-8')
         print(f"Total updated players: {update_count} in {filename}")
