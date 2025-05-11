@@ -17,7 +17,7 @@ def days_to_age(days_total):
 
 os.makedirs("II", exist_ok=True)
 
-df = pd.read_csv('Source code/I/results.csv')  
+df = pd.read_csv('I/results.csv')  
 df_cleaned = df.copy()
 
 stats = [col for col in df_cleaned.columns if col not in ['Player', 'Nation', 'Team', 'Position']]
@@ -31,7 +31,7 @@ df_cleaned.replace('N/a', pd.NA, inplace=True)
 for stat in stats:
     df_cleaned[stat] = pd.to_numeric(df_cleaned[stat], errors='coerce')
 
-with open('Source code/II/top3.txt', 'w', encoding='utf-8', errors='ignore') as f:  
+with open('II/top3.txt', 'w', encoding='utf-8', errors='ignore') as f:  
     for stat in stats:
         f.write(f"--- {stat} ---\n")
         valid = df_cleaned.dropna(subset=[stat])
