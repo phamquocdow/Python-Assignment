@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import os  # Thêm thư viện quản lý thư mục
+import os 
 
 def age_to_days(age_str):
     try:
@@ -22,7 +22,6 @@ df_cleaned = df.copy()
 
 stats = [col for col in df_cleaned.columns if col not in ['Player', 'Nation', 'Team', 'Position']]
 
-# Xử lý dữ liệu Age và Minutes
 df_cleaned['Age'] = df_cleaned['Age'].apply(age_to_days)
 df_cleaned["Minutes"] = df_cleaned["Minutes"].str.replace(",", "")
 df_cleaned.replace('N/a', pd.NA, inplace=True)
