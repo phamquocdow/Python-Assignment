@@ -50,7 +50,7 @@ def setup_driver():
     return webdriver.Chrome(options=chrome_options)
 
 def extract_players_from_csv(input_csv='results.csv', output_csv='IV/result_final.csv'):
-    df = pd.read_csv(os.path.join("I", "results.csv")) 
+    df = pd.read_csv(input_csv) 
     df['Minutes'] = df['Minutes'].astype(str).str.replace(",", "").astype(float)
     df = df[df['Minutes'] >= 900]
     selected_columns = ['Player', 'Nation', 'Team', 'Position', 'Age']
@@ -196,7 +196,6 @@ def save_progress(player_data_list, filename='result_final.csv'):
                         df.at[idx, "Transfer Fee"] = player["value"]
                         update_count += 1
                     break
-
         df.to_csv(filename, index=False, encoding='utf-8')
         print(f"Total updated players: {update_count} in {filename}")
 
@@ -230,7 +229,7 @@ def process_all_players():
         print(f"Error in main execution: {str(e)}")
         
 def main():
-    extract_players_from_csv('I/result.csv', 'IV/result_final.csv')
+    extract_players_from_csv('results.csv', 'result_final.csv')
     process_all_players()
 if __name__ == "__main__":
     main()
